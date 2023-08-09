@@ -1,15 +1,15 @@
 ## FORMAT: <channel name> - <Country>
 
-東森新聞[US] - Taiwan
+東森新聞 (US) - Taiwan
 https://www.youtube.com/watch?v=R2iMq5LKXco
 
 東森財經 - Taiwan
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 
-TVBS新聞 [US] - Taiwan
+TVBS新聞 (US) - Taiwan
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 
-TVBS 56 [US] - Taiwan
+TVBS 56 (US) - Taiwan
 https://www.youtube.com/watch?v=YvdcZ_jpLXE
 
 台視新聞 - Taiwan
@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=BMLBU1e1ulo
 NBC News - US
 https://www.youtube.com/watch?v=05BmrNky0sg
 
-Sky News [US] - UK
+Sky News (US) - UK
 https://www.youtube.com/watch?v=9Auq9mYxFEE
 
 CNA - Singapore
