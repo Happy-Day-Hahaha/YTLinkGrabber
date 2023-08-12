@@ -1,30 +1,30 @@
 ## FORMAT: <channel name> - <Country>
 
-東森新聞 (US) - Taiwan
+东森新闻台 - Taiwan
 https://www.youtube.com/watch?v=R2iMq5LKXco
 
-東森財經 - Taiwan
+东森财经新闻台 - Taiwan
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 
 镜新聞 - Taiwan
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-TVBS新聞 (US) - Taiwan
+TVBS新闻台 - Taiwan
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 
-TVBS 56 (US) - Taiwan
+TVBS - Taiwan
 https://www.youtube.com/watch?v=YvdcZ_jpLXE
 
-台視新聞 - Taiwan
+台视新闻台 - Taiwan
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
-民視新聞 - Taiwan
+民视新闻台 - Taiwan
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 
 華視新聞 - Taiwan
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
-NHK World - Japan
+NHKWorld - Japan
 https://www.youtube.com/watch?v=f0lYkdA-Gtw
 
 ABC News (US) - US
