@@ -25,7 +25,7 @@ with open('./youtubeLink.txt', encoding='utf-8') as f:
         if not line or line.startswith('##'):
             continue
         if not line.startswith('https:'):
-            line = line.split('-')
+            line = line.split('=')
             ch_name = line[0].strip()
             grp_title = line[1].strip().title()
             ch_logo = line[2].strip()
