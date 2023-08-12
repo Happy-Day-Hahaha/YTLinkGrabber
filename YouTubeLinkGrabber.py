@@ -28,7 +28,8 @@ with open('./youtubeLink.txt', encoding='utf-8') as f:
             line = line.split('-')
             ch_name = line[0].strip()
             grp_title = line[1].strip().title()
-            print(f'\n#EXTINF:-1 group-title="{grp_title}", {ch_name}')
+            ch_logo = line[2].strip().title()
+            print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{ch_logo}", {ch_name}')
         else:
             grab(line)
             
