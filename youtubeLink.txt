@@ -1,42 +1,42 @@
 ## FORMAT: <channel name> - <Country> - <logo>
 
-东森新闻台 = Taiwan 台湾 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+东森新闻台 = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=R2iMq5LKXco
 
-东森财经新闻台 = Taiwan 台湾 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+东森财经新闻台 = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 
 镜新聞 = Taiwan 台湾 = http://64.225.52.167:37524/down/L7RYPcYdZ3OO.png
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-TVBS新闻台 = Taiwan 台湾 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+TVBS新闻台 = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 
-TVBS = Taiwan 台湾 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+TVBS = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=YvdcZ_jpLXE
 
-台视新闻台 = Taiwan 台湾 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+台视新闻台 = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
-民视新闻台 = Taiwan 台湾 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+民视新闻台 = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 
-華視新聞 = Taiwan 台湾 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+華視新聞 = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
-NHKWorld = Japan 日本 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+NHKWorld = Japan 日本 = 
 https://www.youtube.com/watch?v=f0lYkdA-Gtw
 
-ABC News (US) = US 美国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+ABC News (US) = US 美国 = 
 https://www.youtube.com/watch?v=w_Ma8oQLmSM
 
-Bloomberg = US 美国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+Bloomberg = US 美国 = 
 https://www.youtube.com/watch?v=dp8PhLsUcFE
 
-CBS News = US 美国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+CBS News = US 美国 = 
 https://www.youtube.com/watch?v=BMLBU1e1ulo
 
-Sky News (US) = UK 英国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+Sky News (US) = UK 英国 = 
 https://www.youtube.com/watch?v=9Auq9mYxFEE
 
 ChannelNewsAsia = Singapore 新加坡 = https://commons.wikimedia.org/wiki/File:CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png
@@ -45,19 +45,19 @@ https://www.youtube.com/watch?v=XWq5kBlakcQ
 DW = Germany 德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
 https://www.youtube.com/watch?v=pqabxBKzZ6M
 
-Al Jazeera English = Qatar 卡塔尔 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+Al Jazeera English = Qatar 卡塔尔 = 
 https://www.youtube.com/watch?v=gCNeDWCI0vo
 
-France 24 English = France 法国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+France 24 English = France 法国 = 
 https://www.youtube.com/watch?v=h3MuIUNCCzI
 
-KBS World = Korea 韩国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+KBS World = Korea 韩国 = 
 https://www.youtube.com/c/kbsworldtv/live
 
-KBS Korea = Korea 韩国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+KBS Korea = Korea 韩国 = 
 https://www.youtube.com/watch?v=OxQQsIvJTTU
 
-Test Fail Link = FBK = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+Test Fail Link = FBK = 
 https://www.youtube.com/watch?v=aaa
 
 
