@@ -57,7 +57,7 @@ https://www.youtube.com/c/kbsworldtv/live
 KBS Korea = Korea 韩国 = 
 https://www.youtube.com/watch?v=OxQQsIvJTTU
 
-新唐人亚太台 = Taiwan 台湾 = 
+新唐人亚太台YT = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=WIhgU_mc05A
 
 Test Fail Link = FBK = 
