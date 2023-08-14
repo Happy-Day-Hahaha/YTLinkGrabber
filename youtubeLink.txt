@@ -3,61 +3,61 @@
 东森新闻YT = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=R2iMq5LKXco
 
-东森财经新闻台 = Taiwan 台湾 = 
+东森财经新闻台YT = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 
-镜新聞 = Taiwan 台湾 = http://64.225.52.167:37524/down/L7RYPcYdZ3OO.png
+镜新聞YT = Taiwan 台湾 = http://64.225.52.167:37524/down/L7RYPcYdZ3OO.png
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-TVBS新闻台 = Taiwan 台湾 = 
+TVBS新闻台YT = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 
-TVBS = Taiwan 台湾 = 
+TVBSYT = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=YvdcZ_jpLXE
 
-台视新闻台 = Taiwan 台湾 = 
+台视新闻台YT = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
-民视新闻台 = Taiwan 台湾 = 
+民视新闻台YT = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 
-華視新聞 = Taiwan 台湾 = 
+華視新聞YT = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
-NHKWorld = Japan 日本 = 
+NHKWorldYT = Japan 日本 = 
 https://www.youtube.com/watch?v=f0lYkdA-Gtw
 
-ABC News (US) = US 美国 = 
+ABC News YT = US 美国 = 
 https://www.youtube.com/watch?v=w_Ma8oQLmSM
 
-Bloomberg = US 美国 = 
+Bloomberg YT= US 美国 = 
 https://www.youtube.com/watch?v=dp8PhLsUcFE
 
-CBS News = US 美国 = 
+CBS News YT = US 美国 = 
 https://www.youtube.com/watch?v=BMLBU1e1ulo
 
-Sky News (US) = UK 英国 = 
+Sky News YT = UK 英国 = 
 https://www.youtube.com/watch?v=9Auq9mYxFEE
 
-ChannelNewsAsia = Singapore 新加坡 = https://commons.wikimedia.org/wiki/File:CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png
+ChannelNewsAsia YT = Singapore 新加坡 = https://commons.wikimedia.org/wiki/File:CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png
 https://www.youtube.com/watch?v=XWq5kBlakcQ
 
-DW = Germany 德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+DW YT = Germany 德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
 https://www.youtube.com/watch?v=pqabxBKzZ6M
 
-Al Jazeera English = Qatar 卡塔尔 = 
+Al Jazeera English YT = Qatar 卡塔尔 = 
 https://www.youtube.com/watch?v=gCNeDWCI0vo
 
-France 24 English = France 法国 = 
+France 24 English YT = France 法国 = 
 https://www.youtube.com/watch?v=h3MuIUNCCzI
 
-KBS World = Korea 韩国 = 
+KBS World YT = Korea 韩国 = 
 https://www.youtube.com/c/kbsworldtv/live
 
-KBS Korea = Korea 韩国 = 
+KBS Korea YT = Korea 韩国 = 
 https://www.youtube.com/watch?v=OxQQsIvJTTU
 
-新唐人亚太台YT = Taiwan 台湾 = 
+新唐人亚太台 YT = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=WIhgU_mc05A
 
 Test Fail Link = FBK = 
