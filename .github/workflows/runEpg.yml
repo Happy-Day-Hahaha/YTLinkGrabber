@@ -1,8 +1,8 @@
-name: LinkGrabber
+name: EpgGrabber
 
 on:
   schedule:
-    - cron: '30 4,8,12,16,20,23 * * *'
+    - cron: '30 0,12 * * *'
 
   pull_request:
     branches: [ main ]
@@ -17,12 +17,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Grab Link
+      - name: Grab EPG
 
         run: |
           git config --global user.email "fbk@hll.localhost"
           git config --global user.name "fbk"
-          chmod +x exec_grabber.sh && ./exec_grabber.sh
+          chmod +x exec_epggrabber.sh && ./exec_epggrabber.sh
           git add -A
           git commit -m "./youtubeLink.txt is updated."
           git push
