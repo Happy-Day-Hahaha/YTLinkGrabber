@@ -1,593 +1,582 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2745
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red115\green0\blue109;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c53333\c7059\c50196;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww26080\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
-
-\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 <?xml version="1.0" encoding="utf-8"?>\
-<tv generator-info-date="2023-08-14 05:42" generator-info-name="iptv-pro" generator-info-url="https://iptv-pro.github.io/epg/">\
-    <channel id="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 ">\
-        <display-name lang="zh">\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 </display-name>\
-    </channel>\
-\pard\pardeftab720\partightenfactor0
-\cf0     <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814000000 +0800" stop="20230814003000 +0800">\
-        <title lang="zh">\uc0\u32654 \u22269 \u24605 \u24819 \u39046 \u34966 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814003000 +0800" stop="20230814010000 +0800">\
-        <title lang="zh">\uc0\u33729 \u33521 \u35770 \u22363 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814010000 +0800" stop="20230814013000 +0800">\
-        <title lang="zh">\uc0\u20581 \u24247 1+1</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814013000 +0800" stop="20230814020000 +0800">\
-        <title lang="zh">\uc0\u36130 \u32463 \u36235 \u21183 4.0</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814020000 +0800" stop="20230814023000 +0800">\
-        <title lang="zh">\uc0\u29615 \u29699 \u20307 \u32946 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814023000 +0800" stop="20230814030000 +0800">\
-        <title lang="zh">\uc0\u32454 \u35821 \u20154 \u29983  324</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814030000 +0800" stop="20230814040000 +0800">\
-        <title lang="zh">\uc0\u20061 \u35780 \u20849 \u20135 \u20826 \u32426 \u24405 \u29255  4</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814040000 +0800" stop="20230814043000 +0800">\
-        <title lang="zh">\uc0\u31505 \u35848 \u39118 \u20113 :\u22823 \u26126 \u29579 \u26397  6</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814043000 +0800" stop="20230814050000 +0800">\
-        <title lang="zh">\uc0\u36130 \u32463 \u36235 \u21183 4.0</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814050000 +0800" stop="20230814060000 +0800">\
-        <title lang="zh">\uc0\u20061 \u35780 \u20849 \u20135 \u20826 \u32426 \u24405 \u29255  5</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814060000 +0800" stop="20230814063000 +0800">\
-        <title lang="zh">\uc0\u20581 \u24247 1+1</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814063000 +0800" stop="20230814070000 +0800">\
-        <title lang="zh">\uc0\u32654 \u22269 \u24605 \u24819 \u39046 \u34966 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814070000 +0800" stop="20230814073000 +0800">\
-        <title lang="zh">\uc0\u26089 \u23433 \u26032 \u21776 \u20154 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814073000 +0800" stop="20230814080000 +0800">\
-        <title lang="zh">\uc0\u36130 \u32463 \u36235 \u21183 4.0</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814080000 +0800" stop="20230814081500 +0800">\
-        <title lang="zh">\uc0\u22320 \u29699 \u26053 \u39302 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814081500 +0800" stop="20230814083000 +0800">\
-        <title lang="zh">\uc0\u39336 \u39321 \u38597 \u21477  59</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814083000 +0800" stop="20230814090000 +0800">\
-        <title lang="zh">\uc0\u35848 \u21476 \u35770 \u20170 \u35805 \u20013 \u21307  502</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814090000 +0800" stop="20230814093000 +0800">\
-        <title lang="zh">\uc0\u26089 \u23433 \u26032 \u21776 \u20154 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814093000 +0800" stop="20230814100000 +0800">\
-        <title lang="zh">\uc0\u31505 \u35848 \u39118 \u20113 :\u22823 \u26126 \u29579 \u26397  6</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814100000 +0800" stop="20230814103000 +0800">\
-        <title lang="zh">\uc0\u25105 \u30340 \u38899 \u20048 \u24819 \u24819  107</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814103000 +0800" stop="20230814110000 +0800">\
-        <title lang="zh">\uc0\u27861 \u22269 \u20027 \u21416 \u30340 \u31192 \u23494  8</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814110000 +0800" stop="20230814113000 +0800">\
-        <title lang="zh">\uc0\u24736 \u28216 \u23383 \u22312 \u33521 \u25991 \u21457 \u38899 \u29256 \u31532 \u20108 \u23395  9+10</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814113000 +0800" stop="20230814114500 +0800">\
-        <title lang="zh">\uc0\u32993 \u20035 \u25991 \u24320 \u35762  181</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814114500 +0800" stop="20230814120000 +0800">\
-        <title lang="zh">\uc0\u39336 \u39321 \u38597 \u21477  59</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814120000 +0800" stop="20230814123000 +0800">\
-        <title lang="zh">\uc0\u35848 \u21476 \u35770 \u20170 \u35805 \u20013 \u21307  664</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814123000 +0800" stop="20230814130000 +0800">\
-        <title lang="zh">\uc0\u21320 \u38388 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814130000 +0800" stop="20230814131500 +0800">\
-        <title lang="zh">\uc0\u28459 \u35848 \u25104 \u35821  141</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814131500 +0800" stop="20230814133000 +0800">\
-        <title lang="zh">\uc0\u20320 \u22909 \u26085 \u26412  136</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814133000 +0800" stop="20230814140000 +0800">\
-        <title lang="zh">\uc0\u31505 \u35848 \u39118 \u20113 :\u22823 \u26126 \u29579 \u26397  6</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814140000 +0800" stop="20230814143000 +0800">\
-        <title lang="zh">\uc0\u20320 \u22909 \u38889 \u22269  423</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814143000 +0800" stop="20230814144500 +0800">\
-        <title lang="zh">\uc0\u32993 \u20035 \u25991 \u24320 \u35762  181</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814144500 +0800" stop="20230814150000 +0800">\
-        <title lang="zh">\uc0\u26410 \u35299 \u20043 \u35868 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814150000 +0800" stop="20230814153000 +0800">\
-        <title lang="zh">\uc0\u24736 \u28216 \u23383 \u22312 \u33521 \u25991 \u21457 \u38899 \u29256 \u31532 \u20108 \u23395  9+10</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814153000 +0800" stop="20230814160000 +0800">\
-        <title lang="zh">\uc0\u21320 \u38388 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814160000 +0800" stop="20230814163000 +0800">\
-        <title lang="zh">\uc0\u35848 \u21476 \u35770 \u20170 \u35805 \u20013 \u21307  664</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814163000 +0800" stop="20230814170000 +0800">\
-        <title lang="zh">\uc0\u19968 \u21608 \u32463 \u27982 \u22238 \u39038 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814170000 +0800" stop="20230814173000 +0800">\
-        <title lang="zh">\uc0\u31038 \u21306 \u24191 \u35282 \u38236 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814173000 +0800" stop="20230814180000 +0800">\
-        <title lang="zh">\uc0\u26032 \u21776 \u20154 \u21608 \u21002 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814180000 +0800" stop="20230814183000 +0800">\
-        <title lang="zh">\uc0\u39321 \u28207 \u20154 \u22312 \u21488 \u28286  2</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814183000 +0800" stop="20230814190000 +0800">\
-        <title lang="zh">\uc0\u31505 \u35848 \u39118 \u20113 :\u22823 \u26126 \u29579 \u26397  7</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814190000 +0800" stop="20230814200000 +0800">\
-        <title lang="zh">\uc0\u20122 \u22826 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814200000 +0800" stop="20230814203000 +0800">\
-        <title lang="zh">\uc0\u26032 \u21776 \u20154 \u36130 \u32463 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814203000 +0800" stop="20230814204500 +0800">\
-        <title lang="zh">\uc0\u31206 \u40527 \u25919 \u32463 \u35266 \u23519 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814204500 +0800" stop="20230814210000 +0800">\
-        <title lang="zh">\uc0\u21476 \u38901 \u27969 \u33459  16</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814210000 +0800" stop="20230814220000 +0800">\
-        <title lang="zh">\uc0\u26032 \u38395 \u22823 \u30772 \u35299 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814220000 +0800" stop="20230814223000 +0800">\
-        <title lang="zh">\uc0\u22823 \u21416 \u19978 \u33756 :\u28900 \u29980 \u33756  \u33609 \u33683 \u27801 \u25289  61</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814223000 +0800" stop="20230814231500 +0800">\
-        <title lang="zh">\uc0\u26032 \u38395 \u22823 \u23478 \u35848 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814231500 +0800" stop="20230814233000 +0800">\
-        <title lang="zh">\uc0\u20013 \u22269 \u31105 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230814233000 +0800" stop="20230815000000 +0800">\
-        <title lang="zh">\uc0\u26032 \u21776 \u20154 \u36130 \u32463 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815000000 +0800" stop="20230815003000 +0800">\
-        <title lang="zh">\uc0\u20122 \u22826 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815003000 +0800" stop="20230815010000 +0800">\
-        <title lang="zh">\uc0\u26032 \u21776 \u20154 \u21608 \u21002 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815010000 +0800" stop="20230815013000 +0800">\
-        <title lang="zh">\uc0\u36130 \u32463 \u36235 \u21183 4.0</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815013000 +0800" stop="20230815020000 +0800">\
-        <title lang="zh">\uc0\u19968 \u21608 \u32463 \u27982 \u22238 \u39038 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815020000 +0800" stop="20230815021500 +0800">\
-        <title lang="zh">\uc0\u31206 \u40527 \u25919 \u32463 \u35266 \u23519 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815021500 +0800" stop="20230815023000 +0800">\
-        <title lang="zh">\uc0\u21476 \u38901 \u27969 \u33459  16</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815023000 +0800" stop="20230815024500 +0800">\
-        <title lang="zh">\uc0\u20013 \u22269 \u31105 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815024500 +0800" stop="20230815030000 +0800">\
-        <title lang="zh">\uc0\u22320 \u29699 \u26053 \u39302 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815030000 +0800" stop="20230815040000 +0800">\
-        <title lang="zh">\uc0\u20061 \u35780 \u20849 \u20135 \u20826 \u32426 \u24405 \u29255  5</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815040000 +0800" stop="20230815043000 +0800">\
-        <title lang="zh">\uc0\u31505 \u35848 \u39118 \u20113 :\u22823 \u26126 \u29579 \u26397  7</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815043000 +0800" stop="20230815050000 +0800">\
-        <title lang="zh">\uc0\u26032 \u21776 \u20154 \u36130 \u32463 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815050000 +0800" stop="20230815060000 +0800">\
-        <title lang="zh">\uc0\u20061 \u35780 \u20849 \u20135 \u20826 \u32426 \u24405 \u29255  6</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815060000 +0800" stop="20230815063000 +0800">\
-        <title lang="zh">\uc0\u26032 \u21776 \u20154 \u21608 \u21002 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815063000 +0800" stop="20230815070000 +0800">\
-        <title lang="zh">\uc0\u19968 \u21608 \u32463 \u27982 \u22238 \u39038 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815070000 +0800" stop="20230815073000 +0800">\
-        <title lang="zh">\uc0\u26089 \u23433 \u26032 \u21776 \u20154 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815073000 +0800" stop="20230815083000 +0800">\
-        <title lang="zh">\uc0\u26032 \u38395 \u22823 \u30772 \u35299 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815083000 +0800" stop="20230815090000 +0800">\
-        <title lang="zh">\uc0\u24736 \u28216 \u23383 \u22312 \u33521 \u25991 \u21457 \u38899 \u29256 \u31532 \u20108 \u23395  11+12</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815090000 +0800" stop="20230815093000 +0800">\
-        <title lang="zh">\uc0\u26089 \u23433 \u26032 \u21776 \u20154 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815093000 +0800" stop="20230815100000 +0800">\
-        <title lang="zh">\uc0\u31505 \u35848 \u39118 \u20113 :\u22823 \u26126 \u29579 \u26397  7</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815100000 +0800" stop="20230815103000 +0800">\
-        <title lang="zh">\uc0\u31038 \u21306 \u24191 \u35282 \u38236 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815103000 +0800" stop="20230815110000 +0800">\
-        <title lang="zh">\uc0\u21416 \u23064 \u39321 Q\u31168  747</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815110000 +0800" stop="20230815113000 +0800">\
-        <title lang="zh">\uc0\u22909 \u26679 FORMOSA</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815113000 +0800" stop="20230815114500 +0800">\
-        <title lang="zh">\uc0\u26410 \u35299 \u20043 \u35868 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815114500 +0800" stop="20230815120000 +0800">\
-        <title lang="zh">\uc0\u21476 \u38901 \u27969 \u33459  16</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815120000 +0800" stop="20230815123000 +0800">\
-        <title lang="zh">\uc0\u24736 \u28216 \u23383 \u22312 \u33521 \u25991 \u21457 \u38899 \u29256 \u31532 \u20108 \u23395  11+12</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815123000 +0800" stop="20230815130000 +0800">\
-        <title lang="zh">\uc0\u21320 \u38388 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815130000 +0800" stop="20230815131500 +0800">\
-        <title lang="zh">\uc0\u22235 \u32500 \u20581 \u24247  5</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815131500 +0800" stop="20230815133000 +0800">\
-        <title lang="zh">\uc0\u26410 \u35299 \u20043 \u35868 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815133000 +0800" stop="20230815140000 +0800">\
-        <title lang="zh">\uc0\u31505 \u35848 \u39118 \u20113 :\u22823 \u26126 \u29579 \u26397  7</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815140000 +0800" stop="20230815143000 +0800">\
-        <title lang="zh">\uc0\u35848 \u21476 \u35770 \u20170 \u35805 \u20013 \u21307  503</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815143000 +0800" stop="20230815150000 +0800">\
-        <title lang="zh">\uc0\u20840 \u29699 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815150000 +0800" stop="20230815153000 +0800">\
-        <title lang="zh">\uc0\u22909 \u26679 FORMOSA</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815153000 +0800" stop="20230815160000 +0800">\
-        <title lang="zh">\uc0\u21320 \u38388 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815160000 +0800" stop="20230815163000 +0800">\
-        <title lang="zh">\uc0\u39321 \u28207 \u20154 \u22312 \u21488 \u28286  2</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815163000 +0800" stop="20230815170000 +0800">\
-        <title lang="zh">\uc0\u21382 \u21490 \u33521 \u38596 \u31995 \u21015 :\u31206 \u22987 \u30343   7</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815170000 +0800" stop="20230815173000 +0800">\
-        <title lang="zh">\uc0\u27861 \u22269 \u20027 \u21416 \u30340 \u31192 \u23494  8</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815173000 +0800" stop="20230815180000 +0800">\
-        <title lang="zh">\uc0\u21416 \u23064 \u39321 Q\u31168  612</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815180000 +0800" stop="20230815183000 +0800">\
-        <title lang="zh">\uc0\u35848 \u21476 \u35770 \u20170 \u35805 \u20013 \u21307  503</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815183000 +0800" stop="20230815190000 +0800">\
-        <title lang="zh">\uc0\u31505 \u35848 \u39118 \u20113 :\u22823 \u26126 \u29579 \u26397  8</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815190000 +0800" stop="20230815200000 +0800">\
-        <title lang="zh">\uc0\u20122 \u22826 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815200000 +0800" stop="20230815203000 +0800">\
-        <title lang="zh">\uc0\u26032 \u21776 \u20154 \u36130 \u32463 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815203000 +0800" stop="20230815210000 +0800">\
-        <title lang="zh">\uc0\u26041 \u20255 \u26102 \u38388 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815210000 +0800" stop="20230815211500 +0800">\
-        <title lang="zh">\uc0\u36873 \u25112 \u22823 \u36879 \u35270 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815211500 +0800" stop="20230815213000 +0800">\
-        <title lang="zh">\uc0\u20170 \u26085 \u28857 \u20987 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815213000 +0800" stop="20230815220000 +0800">\
-        <title lang="zh">1000\uc0\u27493 \u30340 \u32548 \u32439 \u21488 \u28286  378</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815220000 +0800" stop="20230815223000 +0800">\
-        <title lang="zh">\uc0\u22823 \u21416 \u19978 \u33756 :\u30416 \u28173 \u28900 \u28779 \u40481  62</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815223000 +0800" stop="20230815231500 +0800">\
-        <title lang="zh">\uc0\u28909 \u28857 \u20114 \u21160 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815231500 +0800" stop="20230815233000 +0800">\
-        <title lang="zh">\uc0\u20013 \u22269 \u31105 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230815233000 +0800" stop="20230816000000 +0800">\
-        <title lang="zh">\uc0\u26032 \u21776 \u20154 \u36130 \u32463 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816000000 +0800" stop="20230816003000 +0800">\
-        <title lang="zh">\uc0\u20122 \u22826 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816003000 +0800" stop="20230816010000 +0800">\
-        <title lang="zh">\uc0\u26041 \u20255 \u26102 \u38388 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816010000 +0800" stop="20230816020000 +0800">\
-        <title lang="zh">\uc0\u32654 \u22269 \u35686 \u23519  4</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816020000 +0800" stop="20230816023000 +0800">\
-        <title lang="zh">\uc0\u20840 \u29699 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816023000 +0800" stop="20230816024500 +0800">\
-        <title lang="zh">\uc0\u20013 \u22269 \u31105 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816024500 +0800" stop="20230816030000 +0800">\
-        <title lang="zh">\uc0\u20170 \u26085 \u28857 \u20987 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816030000 +0800" stop="20230816040000 +0800">\
-        <title lang="zh">\uc0\u20061 \u35780 \u20849 \u20135 \u20826 \u32426 \u24405 \u29255  6</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816040000 +0800" stop="20230816043000 +0800">\
-        <title lang="zh">\uc0\u31505 \u35848 \u39118 \u20113 :\u22823 \u26126 \u29579 \u26397  8</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816043000 +0800" stop="20230816050000 +0800">\
-        <title lang="zh">\uc0\u26032 \u21776 \u20154 \u36130 \u32463 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816050000 +0800" stop="20230816060000 +0800">\
-        <title lang="zh">\uc0\u20061 \u35780 \u20849 \u20135 \u20826 \u32426 \u24405 \u29255  7</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816060000 +0800" stop="20230816064500 +0800">\
-        <title lang="zh">\uc0\u28909 \u28857 \u20114 \u21160 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816064500 +0800" stop="20230816070000 +0800">\
-        <title lang="zh">\uc0\u39336 \u39321 \u38597 \u21477  59</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816070000 +0800" stop="20230816073000 +0800">\
-        <title lang="zh">\uc0\u26089 \u23433 \u26032 \u21776 \u20154 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816073000 +0800" stop="20230816081500 +0800">\
-        <title lang="zh">\uc0\u26032 \u38395 \u22823 \u23478 \u35848 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816081500 +0800" stop="20230816083000 +0800">\
-        <title lang="zh">\uc0\u36873 \u25112 \u22823 \u36879 \u35270 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816083000 +0800" stop="20230816090000 +0800">\
-        <title lang="zh">\uc0\u24736 \u28216 \u23383 \u22312 \u33521 \u25991 \u21457 \u38899 \u29256 \u31532 \u20108 \u23395  12+13</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816090000 +0800" stop="20230816093000 +0800">\
-        <title lang="zh">\uc0\u26089 \u23433 \u26032 \u21776 \u20154 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816093000 +0800" stop="20230816100000 +0800">\
-        <title lang="zh">\uc0\u31505 \u35848 \u39118 \u20113 :\u22823 \u26126 \u29579 \u26397  8</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816100000 +0800" stop="20230816103000 +0800">\
-        <title lang="zh">\uc0\u35848 \u21476 \u35770 \u20170 \u35805 \u20013 \u21307  664</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816103000 +0800" stop="20230816110000 +0800">\
-        <title lang="zh">\uc0\u21416 \u23064 \u39321 Q\u31168  612</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816110000 +0800" stop="20230816113000 +0800">\
-        <title lang="zh">\uc0\u22909 \u26679 FORMOSA</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816113000 +0800" stop="20230816114500 +0800">\
-        <title lang="zh">\uc0\u28459 \u35848 \u25104 \u35821  141</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816114500 +0800" stop="20230816120000 +0800">\
-        <title lang="zh">\uc0\u20320 \u22909 \u26085 \u26412  136</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816120000 +0800" stop="20230816123000 +0800">\
-        <title lang="zh">\uc0\u24736 \u28216 \u23383 \u22312 \u33521 \u25991 \u21457 \u38899 \u29256 \u31532 \u20108 \u23395  12+13</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816123000 +0800" stop="20230816130000 +0800">\
-        <title lang="zh">\uc0\u21320 \u38388 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816130000 +0800" stop="20230816133000 +0800">\
-        <title lang="zh">\uc0\u25105 \u30340 \u38899 \u20048 \u24819 \u24819  107</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816133000 +0800" stop="20230816140000 +0800">\
-        <title lang="zh">\uc0\u31505 \u35848 \u39118 \u20113 :\u22823 \u26126 \u29579 \u26397  8</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816140000 +0800" stop="20230816143000 +0800">\
-        <title lang="zh">\uc0\u35848 \u21476 \u35770 \u20170 \u35805 \u20013 \u21307  505</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816143000 +0800" stop="20230816150000 +0800">\
-        <title lang="zh">\uc0\u20840 \u29699 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816150000 +0800" stop="20230816153000 +0800">\
-        <title lang="zh">\uc0\u22909 \u26679 FORMOSA</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816153000 +0800" stop="20230816160000 +0800">\
-        <title lang="zh">\uc0\u21320 \u38388 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816160000 +0800" stop="20230816163000 +0800">\
-        <title lang="zh">\uc0\u20581 \u24247 1+1</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816163000 +0800" stop="20230816170000 +0800">\
-        <title lang="zh">\uc0\u39321 \u28207 \u20154 \u22312 \u21488 \u28286  2</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816170000 +0800" stop="20230816173000 +0800">\
-        <title lang="zh">1000\uc0\u27493 \u30340 \u32548 \u32439 \u21488 \u28286  378</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816173000 +0800" stop="20230816180000 +0800">\
-        <title lang="zh">\uc0\u21416 \u23064 \u39321 Q\u31168  613</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816180000 +0800" stop="20230816183000 +0800">\
-        <title lang="zh">\uc0\u35848 \u21476 \u35770 \u20170 \u35805 \u20013 \u21307  505</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816183000 +0800" stop="20230816190000 +0800">\
-        <title lang="zh">\uc0\u31505 \u35848 \u39118 \u20113 :\u22823 \u26126 \u29579 \u26397  9</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816190000 +0800" stop="20230816200000 +0800">\
-        <title lang="zh">\uc0\u20122 \u22826 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816200000 +0800" stop="20230816203000 +0800">\
-        <title lang="zh">\uc0\u26032 \u21776 \u20154 \u36130 \u32463 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816203000 +0800" stop="20230816210000 +0800">\
-        <title lang="zh">\uc0\u26032 \u38395 \u30475 \u28857 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816210000 +0800" stop="20230816220000 +0800">\
-        <title lang="zh">\uc0\u26032 \u38395 \u22823 \u30772 \u35299 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816220000 +0800" stop="20230816223000 +0800">\
-        <title lang="zh">\uc0\u22823 \u21416 \u19978 \u33756 :\u28023 \u40092 \u24635 \u27719 \u22612 \u21513 \u38149  63</title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816223000 +0800" stop="20230816230000 +0800">\
-        <title lang="zh">\uc0\u33729 \u33521 \u35770 \u22363 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816230000 +0800" stop="20230816231500 +0800">\
-        <title lang="zh">\uc0\u22320 \u29699 \u26053 \u39302 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816231500 +0800" stop="20230816233000 +0800">\
-        <title lang="zh">\uc0\u20013 \u22269 \u31105 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-    <programme channel="\uc0\u26032 \u21776 \u20154 \u20122 \u22826 \u21488 " start="20230816233000 +0800" stop="20230817000000 +0800">\
-        <title lang="zh">\uc0\u26032 \u21776 \u20154 \u36130 \u32463 \u26032 \u38395 </title>\
-        <desc lang="zh"> </desc>\
-    </programme>\
-\pard\pardeftab720\partightenfactor0
-\cf3 \strokec3 </tv>}
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-date="2023-08-14 05:42" generator-info-name="iptv-pro" generator-info-url="https://iptv-pro.github.io/epg/">
+    <channel id="新唐人亚太台">
+        <display-name lang="zh">新唐人亚太台</display-name>
+    </channel>
+    <programme channel="新唐人亚太台" start="20230814000000 +0800" stop="20230814003000 +0800">
+        <title lang="zh">美国思想领袖</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814003000 +0800" stop="20230814010000 +0800">
+        <title lang="zh">菁英论坛</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814010000 +0800" stop="20230814013000 +0800">
+        <title lang="zh">健康1+1</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814013000 +0800" stop="20230814020000 +0800">
+        <title lang="zh">财经趋势4.0</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814020000 +0800" stop="20230814023000 +0800">
+        <title lang="zh">环球体育</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814023000 +0800" stop="20230814030000 +0800">
+        <title lang="zh">细语人生 324</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814030000 +0800" stop="20230814040000 +0800">
+        <title lang="zh">九评共产党纪录片 4</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814040000 +0800" stop="20230814043000 +0800">
+        <title lang="zh">笑谈风云:大明王朝 6</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814043000 +0800" stop="20230814050000 +0800">
+        <title lang="zh">财经趋势4.0</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814050000 +0800" stop="20230814060000 +0800">
+        <title lang="zh">九评共产党纪录片 5</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814060000 +0800" stop="20230814063000 +0800">
+        <title lang="zh">健康1+1</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814063000 +0800" stop="20230814070000 +0800">
+        <title lang="zh">美国思想领袖</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814070000 +0800" stop="20230814073000 +0800">
+        <title lang="zh">早安新唐人</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814073000 +0800" stop="20230814080000 +0800">
+        <title lang="zh">财经趋势4.0</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814080000 +0800" stop="20230814081500 +0800">
+        <title lang="zh">地球旅馆</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814081500 +0800" stop="20230814083000 +0800">
+        <title lang="zh">馨香雅句 59</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814083000 +0800" stop="20230814090000 +0800">
+        <title lang="zh">谈古论今话中医 502</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814090000 +0800" stop="20230814093000 +0800">
+        <title lang="zh">早安新唐人</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814093000 +0800" stop="20230814100000 +0800">
+        <title lang="zh">笑谈风云:大明王朝 6</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814100000 +0800" stop="20230814103000 +0800">
+        <title lang="zh">我的音乐想想 107</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814103000 +0800" stop="20230814110000 +0800">
+        <title lang="zh">法国主厨的秘密 8</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814110000 +0800" stop="20230814113000 +0800">
+        <title lang="zh">悠游字在英文发音版第二季 9+10</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814113000 +0800" stop="20230814114500 +0800">
+        <title lang="zh">胡乃文开讲 181</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814114500 +0800" stop="20230814120000 +0800">
+        <title lang="zh">馨香雅句 59</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814120000 +0800" stop="20230814123000 +0800">
+        <title lang="zh">谈古论今话中医 664</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814123000 +0800" stop="20230814130000 +0800">
+        <title lang="zh">午间新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814130000 +0800" stop="20230814131500 +0800">
+        <title lang="zh">漫谈成语 141</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814131500 +0800" stop="20230814133000 +0800">
+        <title lang="zh">你好日本 136</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814133000 +0800" stop="20230814140000 +0800">
+        <title lang="zh">笑谈风云:大明王朝 6</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814140000 +0800" stop="20230814143000 +0800">
+        <title lang="zh">你好韩国 423</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814143000 +0800" stop="20230814144500 +0800">
+        <title lang="zh">胡乃文开讲 181</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814144500 +0800" stop="20230814150000 +0800">
+        <title lang="zh">未解之谜</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814150000 +0800" stop="20230814153000 +0800">
+        <title lang="zh">悠游字在英文发音版第二季 9+10</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814153000 +0800" stop="20230814160000 +0800">
+        <title lang="zh">午间新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814160000 +0800" stop="20230814163000 +0800">
+        <title lang="zh">谈古论今话中医 664</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814163000 +0800" stop="20230814170000 +0800">
+        <title lang="zh">一周经济回顾</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814170000 +0800" stop="20230814173000 +0800">
+        <title lang="zh">社区广角镜</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814173000 +0800" stop="20230814180000 +0800">
+        <title lang="zh">新唐人周刊</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814180000 +0800" stop="20230814183000 +0800">
+        <title lang="zh">香港人在台湾 2</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814183000 +0800" stop="20230814190000 +0800">
+        <title lang="zh">笑谈风云:大明王朝 7</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814190000 +0800" stop="20230814200000 +0800">
+        <title lang="zh">亚太新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814200000 +0800" stop="20230814203000 +0800">
+        <title lang="zh">新唐人财经新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814203000 +0800" stop="20230814204500 +0800">
+        <title lang="zh">秦鹏政经观察</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814204500 +0800" stop="20230814210000 +0800">
+        <title lang="zh">古韵流芳 16</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814210000 +0800" stop="20230814220000 +0800">
+        <title lang="zh">新闻大破解</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814220000 +0800" stop="20230814223000 +0800">
+        <title lang="zh">大厨上菜:烤甜菜 草莓沙拉 61</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814223000 +0800" stop="20230814231500 +0800">
+        <title lang="zh">新闻大家谈</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814231500 +0800" stop="20230814233000 +0800">
+        <title lang="zh">中国禁闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230814233000 +0800" stop="20230815000000 +0800">
+        <title lang="zh">新唐人财经新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815000000 +0800" stop="20230815003000 +0800">
+        <title lang="zh">亚太新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815003000 +0800" stop="20230815010000 +0800">
+        <title lang="zh">新唐人周刊</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815010000 +0800" stop="20230815013000 +0800">
+        <title lang="zh">财经趋势4.0</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815013000 +0800" stop="20230815020000 +0800">
+        <title lang="zh">一周经济回顾</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815020000 +0800" stop="20230815021500 +0800">
+        <title lang="zh">秦鹏政经观察</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815021500 +0800" stop="20230815023000 +0800">
+        <title lang="zh">古韵流芳 16</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815023000 +0800" stop="20230815024500 +0800">
+        <title lang="zh">中国禁闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815024500 +0800" stop="20230815030000 +0800">
+        <title lang="zh">地球旅馆</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815030000 +0800" stop="20230815040000 +0800">
+        <title lang="zh">九评共产党纪录片 5</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815040000 +0800" stop="20230815043000 +0800">
+        <title lang="zh">笑谈风云:大明王朝 7</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815043000 +0800" stop="20230815050000 +0800">
+        <title lang="zh">新唐人财经新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815050000 +0800" stop="20230815060000 +0800">
+        <title lang="zh">九评共产党纪录片 6</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815060000 +0800" stop="20230815063000 +0800">
+        <title lang="zh">新唐人周刊</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815063000 +0800" stop="20230815070000 +0800">
+        <title lang="zh">一周经济回顾</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815070000 +0800" stop="20230815073000 +0800">
+        <title lang="zh">早安新唐人</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815073000 +0800" stop="20230815083000 +0800">
+        <title lang="zh">新闻大破解</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815083000 +0800" stop="20230815090000 +0800">
+        <title lang="zh">悠游字在英文发音版第二季 11+12</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815090000 +0800" stop="20230815093000 +0800">
+        <title lang="zh">早安新唐人</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815093000 +0800" stop="20230815100000 +0800">
+        <title lang="zh">笑谈风云:大明王朝 7</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815100000 +0800" stop="20230815103000 +0800">
+        <title lang="zh">社区广角镜</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815103000 +0800" stop="20230815110000 +0800">
+        <title lang="zh">厨娘香Q秀 747</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815110000 +0800" stop="20230815113000 +0800">
+        <title lang="zh">好样FORMOSA</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815113000 +0800" stop="20230815114500 +0800">
+        <title lang="zh">未解之谜</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815114500 +0800" stop="20230815120000 +0800">
+        <title lang="zh">古韵流芳 16</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815120000 +0800" stop="20230815123000 +0800">
+        <title lang="zh">悠游字在英文发音版第二季 11+12</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815123000 +0800" stop="20230815130000 +0800">
+        <title lang="zh">午间新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815130000 +0800" stop="20230815131500 +0800">
+        <title lang="zh">四维健康 5</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815131500 +0800" stop="20230815133000 +0800">
+        <title lang="zh">未解之谜</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815133000 +0800" stop="20230815140000 +0800">
+        <title lang="zh">笑谈风云:大明王朝 7</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815140000 +0800" stop="20230815143000 +0800">
+        <title lang="zh">谈古论今话中医 503</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815143000 +0800" stop="20230815150000 +0800">
+        <title lang="zh">全球新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815150000 +0800" stop="20230815153000 +0800">
+        <title lang="zh">好样FORMOSA</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815153000 +0800" stop="20230815160000 +0800">
+        <title lang="zh">午间新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815160000 +0800" stop="20230815163000 +0800">
+        <title lang="zh">香港人在台湾 2</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815163000 +0800" stop="20230815170000 +0800">
+        <title lang="zh">历史英雄系列:秦始皇  7</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815170000 +0800" stop="20230815173000 +0800">
+        <title lang="zh">法国主厨的秘密 8</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815173000 +0800" stop="20230815180000 +0800">
+        <title lang="zh">厨娘香Q秀 612</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815180000 +0800" stop="20230815183000 +0800">
+        <title lang="zh">谈古论今话中医 503</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815183000 +0800" stop="20230815190000 +0800">
+        <title lang="zh">笑谈风云:大明王朝 8</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815190000 +0800" stop="20230815200000 +0800">
+        <title lang="zh">亚太新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815200000 +0800" stop="20230815203000 +0800">
+        <title lang="zh">新唐人财经新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815203000 +0800" stop="20230815210000 +0800">
+        <title lang="zh">方伟时间</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815210000 +0800" stop="20230815211500 +0800">
+        <title lang="zh">选战大透视</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815211500 +0800" stop="20230815213000 +0800">
+        <title lang="zh">今日点击</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815213000 +0800" stop="20230815220000 +0800">
+        <title lang="zh">1000步的缤纷台湾 378</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815220000 +0800" stop="20230815223000 +0800">
+        <title lang="zh">大厨上菜:盐渍烤火鸡 62</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815223000 +0800" stop="20230815231500 +0800">
+        <title lang="zh">热点互动</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815231500 +0800" stop="20230815233000 +0800">
+        <title lang="zh">中国禁闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230815233000 +0800" stop="20230816000000 +0800">
+        <title lang="zh">新唐人财经新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816000000 +0800" stop="20230816003000 +0800">
+        <title lang="zh">亚太新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816003000 +0800" stop="20230816010000 +0800">
+        <title lang="zh">方伟时间</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816010000 +0800" stop="20230816020000 +0800">
+        <title lang="zh">美国警察 4</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816020000 +0800" stop="20230816023000 +0800">
+        <title lang="zh">全球新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816023000 +0800" stop="20230816024500 +0800">
+        <title lang="zh">中国禁闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816024500 +0800" stop="20230816030000 +0800">
+        <title lang="zh">今日点击</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816030000 +0800" stop="20230816040000 +0800">
+        <title lang="zh">九评共产党纪录片 6</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816040000 +0800" stop="20230816043000 +0800">
+        <title lang="zh">笑谈风云:大明王朝 8</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816043000 +0800" stop="20230816050000 +0800">
+        <title lang="zh">新唐人财经新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816050000 +0800" stop="20230816060000 +0800">
+        <title lang="zh">九评共产党纪录片 7</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816060000 +0800" stop="20230816064500 +0800">
+        <title lang="zh">热点互动</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816064500 +0800" stop="20230816070000 +0800">
+        <title lang="zh">馨香雅句 59</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816070000 +0800" stop="20230816073000 +0800">
+        <title lang="zh">早安新唐人</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816073000 +0800" stop="20230816081500 +0800">
+        <title lang="zh">新闻大家谈</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816081500 +0800" stop="20230816083000 +0800">
+        <title lang="zh">选战大透视</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816083000 +0800" stop="20230816090000 +0800">
+        <title lang="zh">悠游字在英文发音版第二季 12+13</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816090000 +0800" stop="20230816093000 +0800">
+        <title lang="zh">早安新唐人</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816093000 +0800" stop="20230816100000 +0800">
+        <title lang="zh">笑谈风云:大明王朝 8</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816100000 +0800" stop="20230816103000 +0800">
+        <title lang="zh">谈古论今话中医 664</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816103000 +0800" stop="20230816110000 +0800">
+        <title lang="zh">厨娘香Q秀 612</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816110000 +0800" stop="20230816113000 +0800">
+        <title lang="zh">好样FORMOSA</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816113000 +0800" stop="20230816114500 +0800">
+        <title lang="zh">漫谈成语 141</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816114500 +0800" stop="20230816120000 +0800">
+        <title lang="zh">你好日本 136</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816120000 +0800" stop="20230816123000 +0800">
+        <title lang="zh">悠游字在英文发音版第二季 12+13</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816123000 +0800" stop="20230816130000 +0800">
+        <title lang="zh">午间新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816130000 +0800" stop="20230816133000 +0800">
+        <title lang="zh">我的音乐想想 107</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816133000 +0800" stop="20230816140000 +0800">
+        <title lang="zh">笑谈风云:大明王朝 8</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816140000 +0800" stop="20230816143000 +0800">
+        <title lang="zh">谈古论今话中医 505</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816143000 +0800" stop="20230816150000 +0800">
+        <title lang="zh">全球新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816150000 +0800" stop="20230816153000 +0800">
+        <title lang="zh">好样FORMOSA</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816153000 +0800" stop="20230816160000 +0800">
+        <title lang="zh">午间新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816160000 +0800" stop="20230816163000 +0800">
+        <title lang="zh">健康1+1</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816163000 +0800" stop="20230816170000 +0800">
+        <title lang="zh">香港人在台湾 2</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816170000 +0800" stop="20230816173000 +0800">
+        <title lang="zh">1000步的缤纷台湾 378</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816173000 +0800" stop="20230816180000 +0800">
+        <title lang="zh">厨娘香Q秀 613</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816180000 +0800" stop="20230816183000 +0800">
+        <title lang="zh">谈古论今话中医 505</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816183000 +0800" stop="20230816190000 +0800">
+        <title lang="zh">笑谈风云:大明王朝 9</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816190000 +0800" stop="20230816200000 +0800">
+        <title lang="zh">亚太新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816200000 +0800" stop="20230816203000 +0800">
+        <title lang="zh">新唐人财经新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816203000 +0800" stop="20230816210000 +0800">
+        <title lang="zh">新闻看点</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816210000 +0800" stop="20230816220000 +0800">
+        <title lang="zh">新闻大破解</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816220000 +0800" stop="20230816223000 +0800">
+        <title lang="zh">大厨上菜:海鲜总汇塔吉锅 63</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816223000 +0800" stop="20230816230000 +0800">
+        <title lang="zh">菁英论坛</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816230000 +0800" stop="20230816231500 +0800">
+        <title lang="zh">地球旅馆</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816231500 +0800" stop="20230816233000 +0800">
+        <title lang="zh">中国禁闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+    <programme channel="新唐人亚太台" start="20230816233000 +0800" stop="20230817000000 +0800">
+        <title lang="zh">新唐人财经新闻</title>
+        <desc lang="zh"> </desc>
+    </programme>
+</tv>
