@@ -1,6 +1,6 @@
 ## FORMAT: <channel name> - <Country> - <logo>
 
-东森新闻台 = Taiwan 台湾 = 
+东森新闻YT = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=R2iMq5LKXco
 
 东森财经新闻台 = Taiwan 台湾 = 
