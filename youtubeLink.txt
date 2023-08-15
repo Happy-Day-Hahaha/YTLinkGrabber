@@ -6,6 +6,9 @@ https://www.youtube.com/watch?v=R2iMq5LKXco
 東森財經新聞_YT = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 
+三立新聞_YT = Taiwan 台湾 = 
+https://www.youtube.com/watch?v=FoBfXvlOR6I
+
 镜新聞_YT = Taiwan 台湾 = http://64.225.52.167:37524/down/L7RYPcYdZ3OO.png
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 
@@ -57,7 +60,7 @@ https://www.youtube.com/c/kbsworldtv/live
 KBS Korea YT = Korea 韩国 = 
 https://www.youtube.com/watch?v=OxQQsIvJTTU
 
-新唐人亚太台 YT = CN Overseas 海外中文 = 
+新唐人亚太台 YT = 美国 US = 
 https://www.youtube.com/watch?v=WIhgU_mc05A
 
 Test Fail Link = FBK = 
