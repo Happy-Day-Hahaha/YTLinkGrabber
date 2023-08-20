@@ -6,6 +6,7 @@
 法语学习24小时直播 = France 法国 = 
 https://www.youtube.com/watch?v=6PZ43QROrVs
 
+###################### Taiwan
 
 東森新聞_YT = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=R2iMq5LKXco
@@ -37,8 +38,12 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 華視新聞_YT = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
+###################### Japan
+
 NHKWorld_YT = Japan 日本 = 
 https://www.youtube.com/watch?v=f0lYkdA-Gtw
+
+###################### US
 
 ABC News_YT = US 美国 = 
 https://www.youtube.com/watch?v=w_Ma8oQLmSM
@@ -48,6 +53,9 @@ https://www.youtube.com/watch?v=dp8PhLsUcFE
 
 CBS News_YT = US 美国 = 
 https://www.youtube.com/watch?v=BMLBU1e1ulo
+
+CBS 60 minutes 六十分钟杂志 轮播 = US 美国 =
+https://www.youtube.com/watch?v=dXM1iXLiFvE
 
 Sky News_YT = UK 英国 = 
 https://www.youtube.com/watch?v=9Auq9mYxFEE
