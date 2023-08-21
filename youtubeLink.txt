@@ -6,6 +6,16 @@
 法语学习24小时直播 = France 法国 = 
 https://www.youtube.com/watch?v=6PZ43QROrVs
 
+###################### Japan
+
+NHKWorld_YT = Japan 日本 = 
+https://www.youtube.com/watch?v=f0lYkdA-Gtw
+
+###################### SMT
+
+ChannelNewsAsia_YT = SMT 新马泰 = https://commons.wikimedia.org/wiki/File:CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png
+https://www.youtube.com/watch?v=XWq5kBlakcQ
+
 ###################### Taiwan
 
 東森新聞_YT = Taiwan 台湾 = 
@@ -38,11 +48,6 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 華視新聞_YT = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
-###################### Japan
-
-NHKWorld_YT = Japan 日本 = 
-https://www.youtube.com/watch?v=f0lYkdA-Gtw
-
 ###################### US
 
 ABC News_YT = US 美国 = 
@@ -57,20 +62,28 @@ https://www.youtube.com/watch?v=BMLBU1e1ulo
 CBS 60 minutes 六十分钟杂志 轮播 = US 美国 =
 https://www.youtube.com/watch?v=dXM1iXLiFvE
 
-Sky News_YT = UK 英国 = 
-https://www.youtube.com/watch?v=9Auq9mYxFEE
-
-ChannelNewsAsia_YT = Singapore 新加坡 = https://commons.wikimedia.org/wiki/File:CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png
-https://www.youtube.com/watch?v=XWq5kBlakcQ
-
-DW YT = Germany 德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
-https://www.youtube.com/watch?v=pqabxBKzZ6M
+新唐人亚太台 YT = 美国 US = 
+https://www.youtube.com/watch?v=WIhgU_mc05A
 
 Al Jazeera English YT = Qatar 卡塔尔 = 
 https://www.youtube.com/watch?v=gCNeDWCI0vo
 
+###################### UK
+
+Sky News_YT = UK 英国 = 
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+###################### Germany
+
+DW YT = Germany 德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+https://www.youtube.com/watch?v=pqabxBKzZ6M
+
+###################### France
+
 France 24 English YT = France 法国 = 
 https://www.youtube.com/watch?v=h3MuIUNCCzI
+
+###################### Korea
 
 KBS World YT = Korea 韩国 = 
 https://www.youtube.com/c/kbsworldtv/live
@@ -78,8 +91,7 @@ https://www.youtube.com/c/kbsworldtv/live
 KBS Korea YT = Korea 韩国 = 
 https://www.youtube.com/watch?v=OxQQsIvJTTU
 
-新唐人亚太台 YT = 美国 US = 
-https://www.youtube.com/watch?v=WIhgU_mc05A
+###################### 世界漫游
 
 纽约-时报广场 YT = 世界漫游 =
 https://www.youtube.com/watch?v=1-iS7LArMPA
@@ -87,7 +99,7 @@ https://www.youtube.com/watch?v=1-iS7LArMPA
 纽约-街头行走 YT = 世界漫游 =
 https://www.youtube.com/watch?v=vsfEE30aiis
 
-纽约-咖啡馆 YT = 世界漫游 =
+纽约-咖啡馆（轻音乐） YT = 世界漫游 =
 https://www.youtube.com/watch?v=rQfZWKDn5Hg
 
 Test Fail Link = FBK = 
