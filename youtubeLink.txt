@@ -44,16 +44,53 @@ DW (ES) = Germany 德国 = https://logos-download.com/wp-content/uploads/2016/05
 https://www.youtube.com/watch?v=tsStUN73_6I
 
 
+######################################### HKMO
+
+
+
+######################################### JAPAN
+
+
+NHK = Japan 日本 = 
+https://www.youtube.com/watch?v=f0lYkdA-Gtw
+
+
 
 ######################################### Korea
 
 
-KBS World = Korea 韩国 = 
+KBS World (K-Pop) = Korea 韩国 = 
 https://www.youtube.com/c/kbsworldtv/live
 
-KBS Korea = Korea 韩国 = 
+KBS Korea (Kr) = Korea 韩国 = 
 https://www.youtube.com/watch?v=OxQQsIvJTTU
 
+Arilang 阿里郎 = Korea 韩国 = 
+https://www.youtube.com/watch?v=CJVBX7KI5nU
+
+
+######################################### SMT
+
+CNA = SMT 新马泰 = 
+https://www.youtube.com/watch?v=XWq5kBlakcQ
+
+
+######################################### Taiwan
+
+三立新闻 iNews = Taiwan 台湾 =
+https://www.youtube.com/watch?v=CKjSm5ZeehE
+
+三立新闻 News+ = Taiwan 台湾 =
+https://www.youtube.com/watch?v=oZdzzvxTfUY
+
+镜新闻 = Taiwan 台湾 =
+https://www.youtube.com/watch?v=5n0y6b0Q25o
+
+Taiwan Plus = Taiwan 台湾 =
+https://www.youtube.com/watch?v=dZp87qnWelE
+
+新唐人亚太台 = Taiwan 台湾 =
+https://www.youtube.com/watch?v=WIhgU_mc05A
 
 
 ######################################### UK
@@ -68,6 +105,9 @@ https://www.youtube.com/watch?v=9Auq9mYxFEE
 
 ABC News = US 美国 = 
 https://www.youtube.com/watch?v=w_Ma8oQLmSM
+
+NBC News Now = US 美国 =
+https://www.youtube.com/watch?v=OrXCqkmVJ7Q
 
 CBS News = US 美国 = 
 https://www.youtube.com/watch?v=BMLBU1e1ulo
