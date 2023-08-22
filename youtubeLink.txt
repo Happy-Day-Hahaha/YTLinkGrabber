@@ -5,17 +5,28 @@
 
 ######################################### France
 
+
+
 Euro News (EN) = France 法国 =
 https://www.youtube.com/watch?v=pykpO5kQJ98
+
+Euro News (ES) = France 法国 =
+https://www.youtube.com/watch?v=O9mOtdZ-nSk
+
+Euro News (FR) = France 法国 =
+https://www.youtube.com/watch?v=NiRIbKwAejk
+
 
 French 24 (EN) = France 法国 =
 https://www.youtube.com/watch?v=h3MuIUNCCzI
 
+French 24 (ES) = France 法国 =
+https://www.youtube.com/watch?v=XDJPzMznAjU
+
 French 24 (FR) = France 法国 =
 https://www.youtube.com/watch?v=gxG3pdKvlIs
 
-French 24 (ES) = France 法国 =
-https://www.youtube.com/watch?v=XDJPzMznAjU
+
 
 法语学习24小时直播 = France 法国 = 
 https://www.youtube.com/watch?v=6PZ43QROrVs
@@ -23,40 +34,59 @@ https://www.youtube.com/watch?v=6PZ43QROrVs
 
 ######################################### Germany
 
-DW YT = Germany 德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+DW (DE) = Germany 德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+https://www.youtube.com/watch?v=wjgYFNfSuKU
+
+DW (EN) = Germany 德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
 https://www.youtube.com/watch?v=pqabxBKzZ6M
 
+DW (ES) = Germany 德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+https://www.youtube.com/watch?v=tsStUN73_6I
 
-###################### US
 
-ABC News_YT = US 美国 = 
+
+######################################### Korea
+
+
+KBS World = Korea 韩国 = 
+https://www.youtube.com/c/kbsworldtv/live
+
+KBS Korea = Korea 韩国 = 
+https://www.youtube.com/watch?v=OxQQsIvJTTU
+
+
+
+######################################### UK
+
+
+SKY News = UK 英国 = 
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+
+######################################### US
+
+
+ABC News = US 美国 = 
 https://www.youtube.com/watch?v=w_Ma8oQLmSM
 
-Bloomberg_YT= US 美国 = 
-https://www.youtube.com/watch?v=dp8PhLsUcFE
-
-CBS News_YT = US 美国 = 
+CBS News = US 美国 = 
 https://www.youtube.com/watch?v=BMLBU1e1ulo
 
 CBS 60 minutes 六十分钟杂志 轮播 = US 美国 =
 https://www.youtube.com/watch?v=dXM1iXLiFvE
 
+Bloomberg= US 美国 = 
+https://www.youtube.com/watch?v=dp8PhLsUcFE
+
 新唐人亚太台 YT = 美国 US = 
 https://www.youtube.com/watch?v=WIhgU_mc05A
 
-Al Jazeera English YT = Qatar 卡塔尔 = 
+Al Jazeera 卡塔尔半岛 = 美国 US = 
 https://www.youtube.com/watch?v=gCNeDWCI0vo
 
 
-###################### Korea
 
-KBS World YT = Korea 韩国 = 
-https://www.youtube.com/c/kbsworldtv/live
-
-KBS Korea YT = Korea 韩国 = 
-https://www.youtube.com/watch?v=OxQQsIvJTTU
-
-###################### 世界漫游
+######################################### 世界漫游
 
 纽约-时报广场 YT = 世界漫游 = 
 https://www.youtube.com/watch?v=1-iS7LArMPA
