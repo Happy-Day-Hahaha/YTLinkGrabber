@@ -57,10 +57,14 @@ https://www.youtube.com/watch?v=tsStUN73_6I
 ######################################### JAPAN
 
 
-NHK = Japan 日本 = 
+NHK World = Japan 日本 = 
 https://www.youtube.com/watch?v=f0lYkdA-Gtw
 
+ANN News = Japan 日本 = 
+https://www.youtube.com/watch?v=coYw-eVU0Ks
 
+日テレ NEWS = Japan 日本 = 
+https://www.youtube.com/watch?v=db5fxSk4WDA
 
 ######################################### Korea
 
