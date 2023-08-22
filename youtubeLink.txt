@@ -1,9 +1,21 @@
 ## FORMAT: <channel name> - <Country> - <logo>
 
-###################### France
+######################################### CANADA
 
-French 24 = France 法国 =
+
+######################################### France
+
+Euro News (EN) = France 法国 =
+https://www.youtube.com/watch?v=pykpO5kQJ98
+
+French 24 (EN) = France 法国 =
 https://www.youtube.com/watch?v=h3MuIUNCCzI
+
+French 24 (FR) = France 法国 =
+https://www.youtube.com/watch?v=gxG3pdKvlIs
+
+French 24 (ES) = France 法国 =
+https://www.youtube.com/watch?v=XDJPzMznAjU
 
 法语学习24小时直播 = France 法国 = 
 https://www.youtube.com/watch?v=6PZ43QROrVs
