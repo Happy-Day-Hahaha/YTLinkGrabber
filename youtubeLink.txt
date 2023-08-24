@@ -2,7 +2,7 @@
 
 ######################################### AUSTRALIA
 
-ABC News Australia = Australia 澳洲 = 
+ABC News = Australia 澳洲 = 
 https://www.youtube.com/watch?v=vOTiJkg1voo
 
 
@@ -10,7 +10,6 @@ https://www.youtube.com/watch?v=vOTiJkg1voo
 
 
 ######################################### France
-
 
 
 Euro News (EN) = France 法国 =
@@ -104,7 +103,6 @@ https://www.youtube.com/watch?v=9Auq9mYxFEE
 
 ######################################### US
 
-
 CNBC = US 美国 =
 https://www.youtube.com/watch?v=9NyxcX3rhQs
 
@@ -119,8 +117,6 @@ https://www.youtube.com/watch?v=WIhgU_mc05A
 
 Al Jazeera 卡塔尔半岛 = US 美国 = 
 https://www.youtube.com/watch?v=gCNeDWCI0vo
-
-
 
 ######################################### 世界漫游
 
