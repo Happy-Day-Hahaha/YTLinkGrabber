@@ -160,11 +160,20 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 寰宇新闻台 = Taiwan 台湾 =
 https://www.youtube.com/watch?v=V8ue1aoEOEQ
 
+TVBS = Taiwan 台湾 =
+https://www.youtube.com/watch?v=YvdcZ_jpLXE
+
 TVBS 新闻台 = Taiwan 台湾 =
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 华视新闻 = Taiwan 台湾 =
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+
+镜电视新闻台 = Taiwan 台湾 =
+https://www.youtube.com/watch?v=5n0y6b0Q25o
+
+中视新闻台 = Taiwan 台湾 =
+https://www.youtube.com/watch?v=TCnaIE_SAtM
 
 
 ######################################### UK
