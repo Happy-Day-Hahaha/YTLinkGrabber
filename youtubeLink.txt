@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=vOTiJkg1voo
 ######################################### CANADA
 
 
+
 ######################################### France
 
 
@@ -55,6 +56,9 @@ https://www.youtube.com/watch?v=tsStUN73_6I
 星岛中文电台 = HKMO 港澳 =
 https://www.youtube.com/watch?v=u_Fps7gMNq0
 
+*世界漫游_香港街头漫游 = HKMO 港澳 =
+https://www.youtube.com/watch?v=dLpimcFkUno
+
 
 ######################################### JAPAN
 
@@ -83,6 +87,8 @@ https://www.youtube.com/watch?v=XuniywQ4nGg
 日テレ NEWS = Japan 日本 = 
 https://www.youtube.com/watch?v=db5fxSk4WDA
 
+*世界漫游_东京街头行走 = Japan 日本 =
+https://www.youtube.com/watch?v=cH7VBI4QQzA
 
 
 ######################################### Korea
@@ -126,6 +132,12 @@ https://www.youtube.com/watch?v=NJUjU9ALj4A
 
 매일경제TV 每日经济新闻 = Korea 韩国 =  
 https://www.youtube.com/watch?v=s9xL1DpBsfQ
+
+Arirang Radio (아리랑 라디오) = Korea 韩国 =  
+https://www.youtube.com/watch?v=P1fX2GGdVS0
+
+*世界漫游_韩国街头行走 = Korea 韩国 =  
+https://www.youtube.com/watch?v=Jtx_vl0qNh0
 
 
 ######################################### SMT
@@ -201,10 +213,10 @@ https://www.youtube.com/watch?v=WIhgU_mc05A
 Al Jazeera 卡塔尔半岛 = US 美国 = 
 https://www.youtube.com/watch?v=gCNeDWCI0vo
 
-纽约-时报广场直播 = US 美国 = 
+*世界漫游_纽约时报广场直播 = US 美国 = 
 https://www.youtube.com/watch?v=1-iS7LArMPA
 
-纽约-街头行走 = US 美国 =
+*世界漫游_纽约街头行走 = US 美国 =
 https://www.youtube.com/watch?v=vsfEE30aiis
 
 ######################################### 轻音乐
