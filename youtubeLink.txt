@@ -52,6 +52,9 @@ https://www.youtube.com/watch?v=tsStUN73_6I
 ######################################### HKMO
 
 
+星岛中文电台 = HKMO 港澳 =
+https://www.youtube.com/watch?v=u_Fps7gMNq0
+
 
 ######################################### JAPAN
 
@@ -94,11 +97,35 @@ https://www.youtube.com/watch?v=OxQQsIvJTTU
 Arilang 阿里郎 = Korea 韩国 = 
 https://www.youtube.com/watch?v=CJVBX7KI5nU
 
+YTN = Korea 韩国 =
+https://www.youtube.com/watch?v=FJfwehhzIhw
+
 YTN 2 = Korea 韩国 =
 https://www.youtube.com/watch?v=hxBTqmTT5gE
 
-연합뉴스TV Yonhap 韩联社新闻台  = Korea 韩国 =
+YTN dmb 直播新闻台 = Korea 韩国 =
+https://www.youtube.com/watch?v=2C2WCLhDsR4
+
+연합뉴스TV Yonhapnews  = Korea 韩国 =
 https://www.youtube.com/watch?v=6QZ_qc75ihU
+
+연합뉴스TV Yonhapnews2  = Korea 韩国 =
+https://www.youtube.com/watch?v=OymfxJq1TTM
+
+TBS FM 95.1MHz 실시간 LIVE 音乐广播 = Korea 韩国 =
+https://www.youtube.com/watch?v=sGXgzYmwMHA
+
+MBC 뉴스 모바일 24시 라이브 = Korea 韩国 = 
+https://www.youtube.com/watch?v=q-Wv4Pvt-5A
+
+레전드 회차＜벌거벗은 세계사＞ 历史 = Korea 韩国 = 
+https://www.youtube.com/watch?v=b5UeAVqz4cI
+
+한국경제TV 韩国经济电视台 = Korea 韩国 = 
+https://www.youtube.com/watch?v=NJUjU9ALj4A
+
+매일경제TV 每日经济新闻 = Korea 韩国 =  
+https://www.youtube.com/watch?v=s9xL1DpBsfQ
 
 
 ######################################### SMT
@@ -118,6 +145,9 @@ https://www.youtube.com/watch?v=WIhgU_mc05A
 东森新闻 = Taiwan 台湾 =
 https://www.youtube.com/watch?v=R2iMq5LKXco
 
+东森新闻 iNews = Taiwan 台湾 =
+https://www.youtube.com/watch?v=S5WOGu2HSes
+
 三立新闻 News+ = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=oZdzzvxTfUY
 
@@ -127,6 +157,14 @@ https://www.youtube.com/watch?v=CKjSm5ZeehE
 民视新闻 = Taiwan 台湾 =
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 
+寰宇新闻台 = Taiwan 台湾 =
+https://www.youtube.com/watch?v=V8ue1aoEOEQ
+
+TVBS 新闻台 = Taiwan 台湾 =
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+
+华视新闻 = Taiwan 台湾 =
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
 
 ######################################### UK
@@ -154,16 +192,22 @@ https://www.youtube.com/watch?v=WIhgU_mc05A
 Al Jazeera 卡塔尔半岛 = US 美国 = 
 https://www.youtube.com/watch?v=gCNeDWCI0vo
 
-######################################### 世界漫游
-
-纽约-时报广场 YT = 世界漫游 = 
+纽约-时报广场直播 = US 美国 = 
 https://www.youtube.com/watch?v=1-iS7LArMPA
 
-纽约-街头行走 YT = 世界漫游 =
+纽约-街头行走 = US 美国 =
 https://www.youtube.com/watch?v=vsfEE30aiis
 
-纽约-咖啡馆（轻音乐） YT = 世界漫游 =
+######################################### 轻音乐
+
+纽约咖啡馆轻音乐 = 音乐 Music =
 https://www.youtube.com/watch?v=rQfZWKDn5Hg
+
+Calm and peaceful cafe piano music l GRASS COTTON = 音乐 Music =
+https://www.youtube.com/watch?v=cK4LemjoFd0
+
+Relaxing Jazz Piano Radio = 音乐 Music =
+https://www.youtube.com/watch?v=Dx5qFachd3A
 
 Test Fail Link = FBK = 
 https://www.youtube.com/watch?v=aaa
