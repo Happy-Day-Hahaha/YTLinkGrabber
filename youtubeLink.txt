@@ -56,14 +56,31 @@ https://www.youtube.com/watch?v=tsStUN73_6I
 ######################################### JAPAN
 
 
-NHK World = Japan 日本 = 
-https://www.youtube.com/watch?v=f0lYkdA-Gtw
-
 ANN News = Japan 日本 = 
 https://www.youtube.com/watch?v=coYw-eVU0Ks
 
+NHK World = Japan 日本 = 
+https://www.youtube.com/watch?v=f0lYkdA-Gtw
+
+広島ニュース24 广岛新闻 = Japan 日本 = 
+https://www.youtube.com/watch?v=e2pgLUmaxGs
+
+HBCニュース 北海道新闻 = Japan 日本 =
+https://www.youtube.com/watch?v=Jc_MexRxmDM
+
+STVニュース 北海道新闻 = Japan 日本 =
+https://www.youtube.com/watch?v=JmBZ9CerNFM
+
+RKB NEWS 福岡佐賀新闻 = Japan 日本 =
+https://www.youtube.com/watch?v=XlMwSm9O3uU
+
+サンテレビニュース Suntv 兵库新闻 = Japan 日本 = 
+https://www.youtube.com/watch?v=XuniywQ4nGg
+
 日テレ NEWS = Japan 日本 = 
 https://www.youtube.com/watch?v=db5fxSk4WDA
+
+
 
 ######################################### Korea
 
