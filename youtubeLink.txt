@@ -142,8 +142,17 @@ https://www.youtube.com/watch?v=Jtx_vl0qNh0
 
 ######################################### SMT
 
-CNA = SMT 新马泰 = 
+CNA = Asia 东南亚/中西亚 = 
 https://www.youtube.com/watch?v=XWq5kBlakcQ
+
+WION = Asia 东南亚/中西亚 = 
+https://www.youtube.com/watch?app=desktop&v=lmZRiDMK3OU
+
+TRT = Asia 东南亚/中西亚 = 
+https://www.youtube.com/watch?app=desktop&v=5VF4aor94gw
+
+Al Jazeera 卡塔尔半岛 = Asia 东南亚/中西亚 = 
+https://www.youtube.com/watch?v=gCNeDWCI0vo
 
 
 ######################################### Taiwan
@@ -210,8 +219,8 @@ https://www.youtube.com/watch?v=dp8PhLsUcFE
 新唐人亚太台 YT = US 美国 = 
 https://www.youtube.com/watch?v=WIhgU_mc05A
 
-Al Jazeera 卡塔尔半岛 = US 美国 = 
-https://www.youtube.com/watch?v=gCNeDWCI0vo
+Fox 4 News  = US 美国 = 
+https://www.youtube.com/watch?v=OYYl221muXw
 
 *世界漫游_纽约时报广场直播 = US 美国 = 
 https://www.youtube.com/watch?v=1-iS7LArMPA
