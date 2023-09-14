@@ -139,16 +139,16 @@ https://www.youtube.com/watch?v=Jtx_vl0qNh0
 
 ######################################### SMT
 
-CNA = Asia 东南亚/中西亚 = 
+CNA = SWA 东南亚西亚 = 
 https://www.youtube.com/watch?v=XWq5kBlakcQ
 
-WION = Asia 东南亚/中西亚 = 
+WION = SWA 东南亚西亚 = 
 https://www.youtube.com/watch?app=desktop&v=lmZRiDMK3OU
 
-TRT = Asia 东南亚/中西亚 = 
+TRT = SWA 东南亚西亚 = 
 https://www.youtube.com/watch?app=desktop&v=5VF4aor94gw
 
-Al Jazeera 卡塔尔半岛 = Asia 东南亚/中西亚 = 
+Al Jazeera 卡塔尔半岛 = SWA 东南亚西亚 = 
 https://www.youtube.com/watch?v=gCNeDWCI0vo
 
 
