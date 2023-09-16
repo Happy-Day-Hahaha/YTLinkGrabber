@@ -53,7 +53,7 @@ def next_file():
     if (not ending) and (cur_size > MAX_SIZE):
         # size above threshold, and not already ending
         global cur_file, cur_idx
-        print (part %d Done , cur_idx)
+        print ("part" + cur_idx + "Done")
         ending = True
         # Close the current elements
         for elem in reversed(path):
@@ -181,7 +181,7 @@ def main(filename, output_dir):
     # Don't forget to close our handle
     cur_file.close()
     
-    print (part %d Done , cur_idx)
+    print ("part"+ cur_idx + "Done")
 
 if __name__ == "__main__":
     parser = OptionParser(usage="usage: %prog [options] XML_FILE")
