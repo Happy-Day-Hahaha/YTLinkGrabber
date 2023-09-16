@@ -65,7 +65,7 @@ def next_file():
         # Open another file
         cur_idx += 1
         cur_file = open(os.path.join(out_dir, root + FMT % cur_idx + ext),
-                        'wt')
+                        'wb')
         if xml_declaration is not None:
             cur_file.write('<?xml%s?>\n' % attrs_s(xml_declaration))
         # Start again where we stopped
@@ -163,7 +163,7 @@ def main(filename, output_dir):
 
     root, ext = os.path.splitext(filename)
 
-    cur_file = open(os.path.join(out_dir, root + FMT % cur_idx + ext), 'wt')
+    cur_file = open(os.path.join(out_dir, root + FMT % cur_idx + ext), 'wb')
 
     with open(filename, 'rt') as xml_file:
         while True:
