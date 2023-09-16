@@ -67,7 +67,7 @@ def next_file():
         cur_file = open(os.path.join(out_dir, root + FMT % cur_idx + ext),
                         'wb')
         if xml_declaration is not None:
-            cur_file.write('<?xml%s?>\n' % attrs_s(xml_declaration))
+            cur_file.write(b'<?xml%s?>\n' % attrs_s(xml_declaration))
         # Start again where we stopped
         for elem in path:
             start_element(*elem)
@@ -81,7 +81,7 @@ def xml_decl(version, encoding, standalone):
     if standalone != -1:
         l.extend(['standalone', 'yes' if standalone else 'no'])
     xml_declaration = l
-    cur_file.write('<?xml%s?>\n' % attrs_s(xml_declaration))
+    cur_file.write(b'<?xml%s?>\n' % attrs_s(xml_declaration))
 
 
 def start_element(name, attrs):
@@ -89,7 +89,7 @@ def start_element(name, attrs):
     global cur_size, start
     if start is not None:
         # Chaining starts after each others
-        cur_file.write('<%s%s>' % (start[0], attrs_s(start[1])))
+        cur_file.write(b'<%s%s>' % (start[0], attrs_s(start[1])))
     start = (name, attrs)
     if ending:
         return
@@ -103,10 +103,10 @@ def end_element(name):
     global start
     if start is not None:
         # Empty element, good, we did not wrote the start part
-        cur_file.write('<%s%s/>' % (start[0],attrs_s(start[1])))
+        cur_file.write(b'<%s%s/>' % (start[0],attrs_s(start[1])))
     else:
         # There was some data, close it normaly
-        cur_file.write('</%s>' % name)
+        cur_file.write(b'</%s>' % name)
     start = None
     if ending:
         return
