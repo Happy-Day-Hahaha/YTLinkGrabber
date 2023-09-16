@@ -13,23 +13,23 @@ https://www.youtube.com/watch?v=vOTiJkg1voo
 ######################################### France
 
 
-Euro News (EN) = France 法国 =
+Euro News (EN) = France 法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
 https://www.youtube.com/watch?v=pykpO5kQJ98
 
-Euro News (ES) = France 法国 =
+Euro News (ES) = France 法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
 https://www.youtube.com/watch?v=O9mOtdZ-nSk
 
-Euro News (FR) = France 法国 =
+Euro News (FR) = France 法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
 https://www.youtube.com/watch?v=NiRIbKwAejk
 
 
-French 24 (EN) = France 法国 =
+French 24 (EN) = France 法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
 https://www.youtube.com/watch?v=h3MuIUNCCzI
 
-French 24 (ES) = France 法国 =
+French 24 (ES) = France 法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
 https://www.youtube.com/watch?v=XDJPzMznAjU
 
-French 24 (FR) = France 法国 =
+French 24 (FR) = France 法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
 https://www.youtube.com/watch?v=gxG3pdKvlIs
 
 
