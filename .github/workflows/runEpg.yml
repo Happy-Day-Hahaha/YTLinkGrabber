@@ -18,11 +18,4 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Grab EPG
-
-        run: |
-          git config --global user.email "fbk@hll.localhost"
-          git config --global user.name "fbk"
-          chmod +x exec_epggrabber.sh && ./exec_epggrabber.sh
-          git add -A
-          git commit -m "./youtubeLink.txt is updated."
-          git push
+        run: python .github/xml_split.py epg_CN.xml
