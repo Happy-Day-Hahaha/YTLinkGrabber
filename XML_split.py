@@ -44,7 +44,8 @@ def attrs_s(attrs):
     """ This generate the XML attributes from an element attribute list """
     l = ['']
     for i in range(0,len(attrs), 2):
-        l.append('%s="%s"' % (attrs[i], escape(attrs[i+1])))
+        val = attrs[i + 1] if attrs[i + 1] else ''
+        l.append('%s="%s"' % (attrs[i], escape(val)))
     return ' '.join(l)
 
 def next_file():
@@ -53,7 +54,7 @@ def next_file():
     if (not ending) and (cur_size > MAX_SIZE):
         # size above threshold, and not already ending
         global cur_file, cur_idx
-        print ("part" + cur_idx + "Done")
+        print "part %d Done" % cur_idx
         ending = True
         # Close the current elements
         for elem in reversed(path):
@@ -65,9 +66,9 @@ def next_file():
         # Open another file
         cur_idx += 1
         cur_file = open(os.path.join(out_dir, root + FMT % cur_idx + ext),
-                        'wb')
+                        'wt')
         if xml_declaration is not None:
-            cur_file.write(b'<?xml%s?>\n' % attrs_s(xml_declaration))
+            cur_file.write('<?xml%s?>\n' % attrs_s(xml_declaration))
         # Start again where we stopped
         for elem in path:
             start_element(*elem)
@@ -81,7 +82,7 @@ def xml_decl(version, encoding, standalone):
     if standalone != -1:
         l.extend(['standalone', 'yes' if standalone else 'no'])
     xml_declaration = l
-    cur_file.write(b'<?xml%s?>\n' % attrs_s(xml_declaration))
+    cur_file.write('<?xml%s?>\n' % attrs_s(xml_declaration))
 
 
 def start_element(name, attrs):
@@ -89,7 +90,7 @@ def start_element(name, attrs):
     global cur_size, start
     if start is not None:
         # Chaining starts after each others
-        cur_file.write(b'<%s%s>' % (start[0], attrs_s(start[1])))
+        cur_file.write('<%s%s>' % (start[0], attrs_s(start[1])))
     start = (name, attrs)
     if ending:
         return
@@ -103,10 +104,10 @@ def end_element(name):
     global start
     if start is not None:
         # Empty element, good, we did not wrote the start part
-        cur_file.write(b'<%s%s/>' % (start[0],attrs_s(start[1])))
+        cur_file.write('<%s%s/>' % (start[0],attrs_s(start[1])))
     else:
         # There was some data, close it normaly
-        cur_file.write(b'</%s>' % name)
+        cur_file.write('</%s>' % name)
     start = None
     if ending:
         return
@@ -163,7 +164,7 @@ def main(filename, output_dir):
 
     root, ext = os.path.splitext(filename)
 
-    cur_file = open(os.path.join(out_dir, root + FMT % cur_idx + ext), 'wb')
+    cur_file = open(os.path.join(out_dir, root + FMT % cur_idx + ext), 'wt')
 
     with open(filename, 'rt') as xml_file:
         while True:
@@ -181,7 +182,7 @@ def main(filename, output_dir):
     # Don't forget to close our handle
     cur_file.close()
     
-    print ("part"+ cur_idx + "Done")
+    print "part %d Done" % cur_idx
 
 if __name__ == "__main__":
     parser = OptionParser(usage="usage: %prog [options] XML_FILE")
