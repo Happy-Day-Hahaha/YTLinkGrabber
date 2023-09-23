@@ -66,7 +66,7 @@ https://www.youtube.com/watch?v=dLpimcFkUno
 ANN News = Japan 日本 = 
 https://www.youtube.com/watch?v=coYw-eVU0Ks
 
-NHK World = Japan 日本 = 
+NHK World = Japan 日本 = https://live.fanmingming.com/tv/NHKWorld.png
 https://www.youtube.com/watch?v=f0lYkdA-Gtw
 
 広島ニュース24 广岛新闻 = Japan 日本 = 
