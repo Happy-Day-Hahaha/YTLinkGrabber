@@ -39,26 +39,26 @@ f=open(file_name,'r')
 str_head = ""
 for i in range(2):
     str_head += f.readline().strip() + '\n'
-print(str_head)
+#print(str_head)
 
 # 输出文件（channel部分）
 with open(result_file_name,"w") as file:
     file.write(str_head)
 
     for row in filtered_tv.itertuples():
-        file.write("\t<channel id=\"" + str(int(row.id)) + "\">\n")
-        file.write("\t\t<display-name lang=\"TW\">" + row._2 +"</display-name>\n")
-        file.write("\t</channel>\n")
+        print("\t<channel id=\"" + str(int(row.id)) + "\">\n")
+        print("\t\t<display-name lang=\"TW\">" + row._2 +"</display-name>\n")
+        print("\t</channel>\n")
 
 # 输出文件（epg部分）
 with open(result_file_name,"a") as file:
     for row in filtered_xml_total.itertuples():
-        file.write("\t<programme channel=\"" + str(int(row.id)) + "\" start=\"" + str(row.start) + "\" stop=\"" + str(row.stop) + "\">\n")
-        file.write("\t\t<title lang=\"zh\">" + str(row.title) + "</title>\n")   
-        file.write("\t\t<date>" + str(int(row.date)) + "</date>\n" )
-        file.write("\t\t<audio>\n")
-        file.write("\t\t\t<stereo>stereo</stereo>\n")
-        file.write("\t\t</audio>\n")
-        file.write("\t</programme>\n")
+        print("\t<programme channel=\"" + str(int(row.id)) + "\" start=\"" + str(row.start) + "\" stop=\"" + str(row.stop) + "\">\n")
+        print("\t\t<title lang=\"zh\">" + str(row.title) + "</title>\n")   
+        print("\t\t<date>" + str(int(row.date)) + "</date>\n" )
+        print("\t\t<audio>\n")
+        print("\t\t\t<stereo>stereo</stereo>\n")
+        print("\t\t</audio>\n")
+        print("\t</programme>\n")
 
 
