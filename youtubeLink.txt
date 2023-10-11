@@ -24,15 +24,13 @@ https://www.youtube.com/watch?v=NiRIbKwAejk
 
 
 French 24 (EN) = France 法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
-https://www.youtube.com/watch?v=h3MuIUNCCzI
+https://www.youtube.com/watch?v=tkDUSYHoKxE
 
 French 24 (ES) = France 法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
-https://www.youtube.com/watch?v=XDJPzMznAjU
+https://www.youtube.com/watch?v=Y-IlMeCCtIg
 
 French 24 (FR) = France 法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
-https://www.youtube.com/watch?v=gxG3pdKvlIs
-
-
+https://www.youtube.com/watch?v=l8PMl7tUDIE
 
 法语学习24小时直播 = France 法国 = 
 https://www.youtube.com/watch?v=6PZ43QROrVs
@@ -52,9 +50,6 @@ https://www.youtube.com/watch?v=tsStUN73_6I
 
 ######################################### HKMO
 
-
-星岛中文电台 = HKMO 港澳 =
-https://www.youtube.com/watch?v=u_Fps7gMNq0
 
 *世界漫游_香港街头漫游 = HKMO 港澳 =
 https://www.youtube.com/watch?v=dLpimcFkUno
@@ -79,7 +74,7 @@ STVニュース 北海道新闻 = Japan 日本 =
 https://www.youtube.com/watch?v=JmBZ9CerNFM
 
 RKB NEWS 福岡佐賀新闻 = Japan 日本 =
-https://www.youtube.com/watch?v=XlMwSm9O3uU
+https://www.youtube.com/watch?v=wla87f41wj4
 
 サンテレビニュース Suntv 兵库新闻 = Japan 日本 = 
 https://www.youtube.com/watch?v=XuniywQ4nGg
@@ -178,6 +173,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 寰宇新闻台 = Taiwan 台湾 =
 https://www.youtube.com/watch?v=V8ue1aoEOEQ
 
+寰宇新闻台湾台 = Taiwan 台湾 =
+https://www.youtube.com/watch?v=UcTIv4ZaE5Y
+
 TVBS = Taiwan 台湾 =
 https://www.youtube.com/live/YvdcZ_jpLXE?si=S9lz0yzaD3P1vjBf
 
@@ -192,9 +190,6 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 中视新闻台 = Taiwan 台湾 =
 https://www.youtube.com/watch?v=TCnaIE_SAtM
-
-民视台湾台 = Taiwan 台湾 =
-https://m.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
 
 
 ######################################### UK
