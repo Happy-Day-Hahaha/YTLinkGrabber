@@ -167,7 +167,7 @@ https://www.youtube.com/watch?v=oZdzzvxTfUY
 三立新闻 iNews = Taiwan 台湾 = 
 https://www.youtube.com/watch?v=CKjSm5ZeehE
 
-民视新闻 = Taiwan 台湾 =
+民视新闻 = Taiwan 台湾 = https://www.ftv.com.tw/images/Ch_04.png
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 
 寰宇新闻台 = Taiwan 台湾 =
