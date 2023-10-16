@@ -176,7 +176,7 @@ https://www.youtube.com/watch?v=V8ue1aoEOEQ
 寰宇新闻台湾台 = Taiwan 台湾 =
 https://www.youtube.com/watch?v=UcTIv4ZaE5Y
 
-TVBS = Taiwan 台湾 =
+TVBS = Taiwan 台湾 = https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png
 https://www.youtube.com/live/YvdcZ_jpLXE?si=S9lz0yzaD3P1vjBf
 
 TVBS 新闻台 = Taiwan 台湾 =
