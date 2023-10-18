@@ -182,15 +182,15 @@ https://www.youtube.com/watch?v=S5WOGu2HSes
 镜电视新闻台 = Taiwan 台湾 =
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-中视新闻台 = Taiwan 台湾 =
-https://www.youtube.com/watch?v=TCnaIE_SAtM
+###中视新闻台 = Taiwan 台湾 =
+###https://www.youtube.com/watch?v=TCnaIE_SAtM
 
 
 ######################################### UK
 
 
-SKY News = UK 英国 = 
-https://www.youtube.com/watch?v=9Auq9mYxFEE
+###SKY News = UK 英国 = 
+###https://www.youtube.com/watch?v=9Auq9mYxFEE
 
 
 
@@ -199,25 +199,13 @@ https://www.youtube.com/watch?v=9Auq9mYxFEE
 CNBC = US 美国 =
 https://www.youtube.com/watch?v=9NyxcX3rhQs
 
-CBS 60 minutes 六十分钟杂志 轮播 = US 美国 =
-https://www.youtube.com/watch?v=dXM1iXLiFvE
-
-Bloomberg= US 美国 = 
+Bloomberg = US 美国 = 
 https://www.youtube.com/watch?v=dp8PhLsUcFE
 
 Fox 4 News  = US 美国 = 
 https://www.youtube.com/watch?v=OYYl221muXw
 
-*世界漫游_纽约时报广场直播 = US 美国 = 
-https://www.youtube.com/watch?v=1-iS7LArMPA
-
-*世界漫游_纽约街头行走 = US 美国 =
-https://www.youtube.com/watch?v=vsfEE30aiis
-
 ######################################### 轻音乐
-
-纽约咖啡馆轻音乐 = 音乐 Music =
-https://www.youtube.com/watch?v=rQfZWKDn5Hg
 
 Calm and peaceful cafe piano music l GRASS COTTON = 音乐 Music =
 https://www.youtube.com/watch?v=cK4LemjoFd0
