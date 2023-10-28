@@ -38,8 +38,8 @@ https://www.youtube.com/watch?v=l8PMl7tUDIE
 
 ######################################### Germany
 
-DW (DE) = Germany 德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
-https://www.youtube.com/watch?v=wjgYFNfSuKU
+###DW (DE) = Germany 德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+###https://www.youtube.com/watch?v=wjgYFNfSuKU
 
 DW (EN) = Germany 德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
 https://www.youtube.com/watch?v=pqabxBKzZ6M
@@ -71,7 +71,7 @@ HBCニュース 北海道新闻 = Japan 日本 =
 https://www.youtube.com/watch?v=Jc_MexRxmDM
 
 STVニュース 北海道新闻 = Japan 日本 =
-https://www.youtube.com/watch?v=JmBZ9CerNFM
+###https://www.youtube.com/watch?v=JmBZ9CerNFM
 
 RKB NEWS 福岡佐賀新闻 = Japan 日本 =
 https://www.youtube.com/watch?v=wla87f41wj4
@@ -79,8 +79,8 @@ https://www.youtube.com/watch?v=wla87f41wj4
 サンテレビニュース Suntv 兵库新闻 = Japan 日本 = 
 https://www.youtube.com/watch?v=XuniywQ4nGg
 
-日テレ NEWS = Japan 日本 = 
-https://www.youtube.com/watch?v=db5fxSk4WDA
+###日テレ NEWS = Japan 日本 = 
+###https://www.youtube.com/watch?v=db5fxSk4WDA
 
 
 ######################################### Korea
@@ -99,19 +99,19 @@ YTN 2 = Korea 韩国 =
 https://www.youtube.com/watch?v=hxBTqmTT5gE
 
 YTN dmb 直播新闻台 = Korea 韩国 =
-https://www.youtube.com/watch?v=2C2WCLhDsR4
+###https://www.youtube.com/watch?v=2C2WCLhDsR4
 
 연합뉴스TV Yonhapnews  = Korea 韩国 =
 https://www.youtube.com/watch?v=6QZ_qc75ihU
 
 연합뉴스TV Yonhapnews2  = Korea 韩国 =
-https://www.youtube.com/watch?v=OymfxJq1TTM
+###https://www.youtube.com/watch?v=OymfxJq1TTM
 
 TBS FM 95.1MHz 실시간 LIVE 音乐广播 = Korea 韩国 =
 https://www.youtube.com/watch?v=sGXgzYmwMHA
 
 MBC 뉴스 모바일 24시 라이브 = Korea 韩国 = 
-https://www.youtube.com/watch?v=q-Wv4Pvt-5A
+###https://www.youtube.com/watch?v=q-Wv4Pvt-5A
 
 레전드 회차＜벌거벗은 세계사＞ 历史 = Korea 韩国 = 
 https://www.youtube.com/watch?v=b5UeAVqz4cI
