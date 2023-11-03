@@ -146,7 +146,7 @@ https://www.youtube.com/watch?v=gCNeDWCI0vo
 Taiwan Plus = Taiwan 台湾 = http://64.225.52.167:37524/down/QnML3zoZNMmc.png
 https://www.youtube.com/watch?v=dZp87qnWelE
 
-新唐人亚太台 = Taiwan 台湾 =
+新唐人亚太台 = Taiwan 台湾 = https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png
 https://www.youtube.com/watch?v=WIhgU_mc05A
 
 ###东森新闻 = Taiwan 台湾 =
@@ -155,14 +155,14 @@ https://www.youtube.com/watch?v=WIhgU_mc05A
 东森新闻 iNews = Taiwan 台湾 =
 https://www.youtube.com/watch?v=S5WOGu2HSes
 
-###三立新闻 News+ = Taiwan 台湾 = 
-###https://www.youtube.com/watch?v=oZdzzvxTfUY
+三立新闻 News+ = Taiwan 台湾 = 
+https://www.youtube.com/watch?v=oZdzzvxTfUY
 
-###三立新闻 iNews = Taiwan 台湾 = 
-###https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立新闻 iNews = Taiwan 台湾 = 
+https://www.youtube.com/watch?v=CKjSm5ZeehE
 
-###民视新闻 = Taiwan 台湾 = https://www.ftv.com.tw/images/Ch_04.png
-###https://www.youtube.com/watch?v=ylYJSBUgaMA
+民视新闻 = Taiwan 台湾 = https://www.ftv.com.tw/images/Ch_04.png
+https://www.youtube.com/watch?v=ylYJSBUgaMA
 
 ###寰宇新闻台 = Taiwan 台湾 =
 ###https://www.youtube.com/watch?v=V8ue1aoEOEQ
