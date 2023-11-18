@@ -2,8 +2,8 @@
 
 ######################################### AUSTRALIA
 
-###ABC News = Australia 澳洲 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ABCAustralia.png
-###https://www.youtube.com/watch?v=vOTiJkg1voo
+ABC News = Australia 澳洲 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ABCAustralia.png
+https://www.youtube.com/watch?v=vOTiJkg1voo
 
 
 ######################################### CANADA
@@ -13,8 +13,8 @@
 ######################################### France
 
 
-###Euro News (EN) = France 法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
-###https://www.youtube.com/watch?v=pykpO5kQJ98
+Euro News (EN) = France 法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
+https://www.youtube.com/watch?v=pykpO5kQJ98
 
 Euro News (ES) = France 法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
 https://www.youtube.com/watch?v=O9mOtdZ-nSk
@@ -23,8 +23,8 @@ Euro News (FR) = France 法国 = https://raw.githubusercontent.com/wanglindl/TVl
 https://www.youtube.com/watch?v=NiRIbKwAejk
 
 
-###French 24 (EN) = France 法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
-###https://www.youtube.com/watch?v=tkDUSYHoKxE
+French 24 (EN) = France 法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
+https://www.youtube.com/watch?v=tkDUSYHoKxE
 
 French 24 (ES) = France 法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
 https://www.youtube.com/watch?v=Y-IlMeCCtIg
@@ -38,8 +38,8 @@ https://www.youtube.com/watch?v=l8PMl7tUDIE
 
 ######################################### Germany
 
-###DW (DE) = Germany 德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
-###https://www.youtube.com/watch?v=wjgYFNfSuKU
+DW (DE) = Germany 德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+https://www.youtube.com/watch?v=vuI3YM1xh0g
 
 DW (EN) = Germany 德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
 https://www.youtube.com/watch?v=pqabxBKzZ6M
