@@ -61,8 +61,8 @@ https://www.youtube.com/watch?v=tsStUN73_6I
 ANN News = Japan 日本 = 
 https://www.youtube.com/watch?v=coYw-eVU0Ks
 
-###NHK World = Japan 日本 = https://live.fanmingming.com/tv/NHKWorld.png
-###https://www.youtube.com/watch?v=f0lYkdA-Gtw
+NHK World = Japan 日本 = https://live.fanmingming.com/tv/NHKWorld.png
+https://www.youtube.com/watch?v=f0lYkdA-Gtw
 
 広島ニュース24 广岛新闻 = Japan 日本 = 
 https://www.youtube.com/watch?v=e2pgLUmaxGs
@@ -79,8 +79,8 @@ https://www.youtube.com/watch?v=wla87f41wj4
 サンテレビニュース Suntv 兵库新闻 = Japan 日本 = 
 https://www.youtube.com/watch?v=XuniywQ4nGg
 
-###日テレ NEWS = Japan 日本 = 
-###https://www.youtube.com/watch?v=db5fxSk4WDA
+日テレ NEWS = Japan 日本 = 
+https://www.youtube.com/watch?v=db5fxSk4WDA
 
 
 ######################################### Korea
@@ -128,8 +128,8 @@ https://www.youtube.com/watch?v=P1fX2GGdVS0
 
 ######################################### SMT
 
-###CNA = SWA 东南亚西亚 = 
-###https://www.youtube.com/watch?v=XWq5kBlakcQ
+CNA = SWA 东南亚西亚 = 
+https://www.youtube.com/watch?v=XWq5kBlakcQ
 
 WION = SWA 东南亚西亚 = 
 https://www.youtube.com/watch?app=desktop&v=lmZRiDMK3OU
@@ -149,8 +149,8 @@ https://www.youtube.com/watch?v=dZp87qnWelE
 新唐人亚太台 = Taiwan 台湾 = http://64.225.52.167:37524/down/bN1a9w2WBDHA.png?fname=/ntd_logo.png&down=true
 https://www.youtube.com/watch?v=WIhgU_mc05A
 
-###东森新闻 = Taiwan 台湾 =
-###https://www.youtube.com/watch?v=E0zhe2gkXBs
+东森新闻 = Taiwan 台湾 =
+https://www.youtube.com/watch?v=E0zhe2gkXBs
 
 东森新闻 iNews = Taiwan 台湾 =
 https://www.youtube.com/watch?v=S5WOGu2HSes
@@ -164,33 +164,33 @@ https://www.youtube.com/watch?v=CKjSm5ZeehE
 民视新闻 = Taiwan 台湾 = https://www.ftv.com.tw/images/Ch_04.png
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 
-###寰宇新闻台 = Taiwan 台湾 =
-###https://www.youtube.com/watch?v=V8ue1aoEOEQ
+寰宇新闻台 = Taiwan 台湾 =
+https://www.youtube.com/watch?v=V8ue1aoEOEQ
 
-###寰宇新闻台湾台 = Taiwan 台湾 =
-###https://www.youtube.com/watch?v=UcTIv4ZaE5Y
+寰宇新闻台湾台 = Taiwan 台湾 =
+https://www.youtube.com/watch?v=UcTIv4ZaE5Y
 
-###TVBS = Taiwan 台湾 = https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png
-###https://www.youtube.com/live/YvdcZ_jpLXE?si=S9lz0yzaD3P1vjBf
+TVBS = Taiwan 台湾 = https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png
+https://www.youtube.com/watch?v=YvdcZ_jpLXE
 
-###TVBS 新闻台 = Taiwan 台湾 =
-###https://www.youtube.com/watch?v=m_dhMSvUCIc
+TVBS 新闻台 = Taiwan 台湾 =
+https://www.youtube.com/watch?v=m_dhMSvUCIc
 
-###华视新闻 = Taiwan 台湾 =
-###https://www.youtube.com/watch?v=wM0g8EoUZ_E
+华视新闻 = Taiwan 台湾 =
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
 镜电视新闻台 = Taiwan 台湾 = https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@239@2006_20230119100452.png
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-###中视新闻台 = Taiwan 台湾 =
-###https://www.youtube.com/watch?v=TCnaIE_SAtM
+中视新闻台 = Taiwan 台湾 =
+https://www.youtube.com/watch?v=TCnaIE_SAtM
 
 
 ######################################### UK
 
 
-###SKY News = UK 英国 = 
-###https://www.youtube.com/watch?v=9Auq9mYxFEE
+SKY News = UK 英国 = 
+https://www.youtube.com/watch?v=9Auq9mYxFEE
 
 
 
