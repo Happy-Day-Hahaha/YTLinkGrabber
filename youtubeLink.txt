@@ -196,14 +196,14 @@ https://www.youtube.com/watch?v=9Auq9mYxFEE
 
 ######################################### US
 
-CNBC = US 美国 =
-https://www.youtube.com/watch?v=9NyxcX3rhQs
+#CNBC = US 美国 =
+#https://www.youtube.com/watch?v=9NyxcX3rhQs
 
-Bloomberg = US 美国 = 
-https://www.youtube.com/watch?v=dp8PhLsUcFE
+#Bloomberg = US 美国 = 
+#https://www.youtube.com/watch?v=dp8PhLsUcFE
 
-Fox 4 News  = US 美国 = 
-https://www.youtube.com/watch?v=OYYl221muXw
+#Fox 4 News  = US 美国 = 
+#https://www.youtube.com/watch?v=OYYl221muXw
 
 ######################################### 轻音乐
 
