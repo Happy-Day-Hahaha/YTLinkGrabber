@@ -172,10 +172,10 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 ### 寰宇新闻台湾台 = As-台湾 =
 ### https://www.youtube.com/watch?v=UcTIv4ZaE5Y
 
-TVBS = As-台湾 = https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png
+TVBS = As-台湾 = http://64.225.52.167:37524/down/UWoQenAcIjNC.jpg
 https://www.youtube.com/watch?v=YvdcZ_jpLXE
 
-TVBS 新闻台 = As-台湾 =
+TVBS 新闻台 = As-台湾 = http://64.225.52.167:37524/down/UWoQenAcIjNC.jpg
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 ### 华视新闻 = As-台湾 =
