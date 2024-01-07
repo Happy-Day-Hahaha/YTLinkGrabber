@@ -1,141 +1,141 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-name="Euro News (EN)" group-title="France 法国" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png", Euro News (EN)
+#EXTINF:-1 tvg-name="Euro News (EN)" group-title="Eu-法国" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png", Euro News (EN)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628080/ei/EDuaZdGsMLW8_9EP-p6lwAY/ip/74.249.5.228/id/pykpO5kQJ98.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f6FUey1WNO-ar6qU-gTd4V_V7eyp1rWFPGZD8A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOl6iWqDLeoClR7fAdMmfbFbFWPOWHGe2fyOa-raMvxCAiEA-RI4T6GMWG1g4M9IlwRPp74nDaQ8g26SPcSk5BQnR50%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="Euro News (ES)" group-title="Eu-法国" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png", Euro News (ES)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628081/ei/ETuaZZiMDcax_9EP0K-bqAI/ip/74.249.5.228/id/O9mOtdZ-nSk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fw2t7r9T9ryNntJ2iiiR-8T5WI7SIlt4WDd0JA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZO3e1B3F6gU9o4vGp_a-b_0d2GjU6cvI1t-cJjtsYVgCIQCHSJOs9bSn0RL7kb3zukCwsn5pMPWWIIIM51rLCBo99g%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="Euro News (FR)" group-title="Eu-法国" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png", Euro News (FR)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628081/ei/ETuaZdGELJS7_9EPz5uDOA/ip/74.249.5.228/id/NiRIbKwAejk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwRGK9WDsdXtjM0CY0TaAiIiRSOPC2sUU9MWzw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAN6AFzTKRAzvGjFQTzVMpH9Z95g2WK82xurekGw-dH5qAiBOlY9ZrYtutmtdacwhfOQ9X5sm5Q0wbm-Ht1bIO1AM6g%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="French 24 (EN)" group-title="Eu-法国" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png", French 24 (EN)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628082/ei/EjuaZZr-C_jCy_sPxMqc6Ac/ip/74.249.5.228/id/tkDUSYHoKxE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwptwZ8lTdPKi-JVDZ-n1xXWKA2RX3uZLHmbfA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgDh1S3RTI5ntgZYstMWHkHvwezBD1Q0R5qIoUW19_C7ICIQCijGOVcJ8GefuSq3_DIYd94Xd9pnXFAEHcicbY9f7TMg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="French 24 (ES)" group-title="Eu-法国" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png", French 24 (ES)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628082/ei/EjuaZcXBJ6yo_9EPgfOHgAg/ip/74.249.5.228/id/Y-IlMeCCtIg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6Ua3FW9W6nuW9LlqKa78_keCkEQIwnZv-ktdA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgN1t-tUot0YaapgPiwKiyXZDkgk1CjrIj8yNrSyKSsFICIQC8Q8FRNbLjHqf2gJiHRKGbLwjG_y43Eg85Ng7rFYF7cA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="French 24 (FR)" group-title="Eu-法国" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png", French 24 (FR)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628083/ei/EzuaZd_xCM25_9EP7uakwAc/ip/74.249.5.228/id/l8PMl7tUDIE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4-GKx6mR_YUzuF-nkmpIPFLgoXps0JiKIL7yA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOc9gnD7IbCvDh2pSlBPmkg_kiWdxDL1Dwf70ZyUp6keAiBz0_c9v1kT6PGAund2WyGzT-u4Y4A-DColp95dRGz9Gg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="DW (DE)" group-title="Eu-德国" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png", DW (DE)
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-name="Euro News (ES)" group-title="France 法国" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png", Euro News (ES)
+#EXTINF:-1 tvg-name="DW (EN)" group-title="Eu-德国" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png", DW (EN)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628084/ei/FDuaZYmFB5WP_9EP98-VmAg/ip/74.249.5.228/id/pqabxBKzZ6M.281/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6LmlxhVxfRZdjdcrTrxBDHjPTkR08X1kNuEvg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALSd8xZd0q3Lfs705eaL98rw9dO-yL4r6WHIH1HPXQ0ZAiEA5rXaSeUlC32b8FoMRtGIC40qkjTtdUMYmaUmBzO0-60%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="DW (ES)" group-title="Eu-德国" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png", DW (ES)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628084/ei/FDuaZeaCIfG6_9EPypCtsAE/ip/74.249.5.228/id/tsStUN73_6I.13/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6Lfbo9gloTlKcWAHqJDowMdR_63r7MFJCwYEg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAITN770DaPBMNpekl8u85_lmkn-jxSE5RkXz5e9tjDy0AiBjmQuxHyADyI4YNxBBFpduKv5_6QRWYQV_sycCsBAdDA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" group-title="Cn-港澳" tvg-logo="", 凤凰卫视资讯台
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628085/ei/FDuaZdDEOtmP_9EPgpGSiAI/ip/74.249.5.228/id/Zm4i_rvAcxc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f27cr5JWR3NsJVSJJktB5LhsnPMycMa-So_M-w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXHsermixNuANhdbfNt4TgvFkydPwz6aKfFU_pHpiwPICID08s_ZksMw82BZ_zmmmi_zFhWStV81cZ5VFOiWdi5l9/file/index.m3u8
+
+#EXTINF:-1 tvg-name="ANN News" group-title="As-日本" tvg-logo="", ANN News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628085/ei/FTuaZZTeGL2w_9EP5eGquAw/ip/74.249.5.228/id/coYw-eVU0Ks.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/24554066/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1W71gZyErjWUN4TgNihkzs0_nsAmmWJZqFV-w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJLTQIUrbygGSDyF9pljd6dUeLHHXzyfdnGh-bJ5obpAAiEAmMWo96mhox2ueQyPlYgzubBhjhTJHtmKvQtQr8_5324%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="NHK World" group-title="As-日本" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png", NHK World
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628085/ei/FTuaZcKbNpWa_9EPsYuQyAc/ip/74.249.5.228/id/f0lYkdA-Gtw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f264lfbVxDNeD6eS9OiYoKZFK5T7co9nq-lDiw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgR7ru6K1Yno39Ct6eZamcFzqdmjQ7pwJwG7aDXRsqxeoCIQDNSOv5jyVvXzWbQPZuv9gMvZ9vV5mvDMIFK5mRQ4PgMg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="広島ニュース24 广岛新闻" group-title="As-日本" tvg-logo="", 広島ニュース24 广岛新闻
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628086/ei/FjuaZdKQFKCi_9EPscmTsAI/ip/74.249.5.228/id/e2pgLUmaxGs.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6Z0XvJp54pzX9bDjdvbcYyQ7kuFn5yJQ7yOIQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALByFSAiIeAlXssFIlTtDuIh-NdRIAFyJYowk6o6UgtvAiEA4WjZMYdJ7SQSfBQE887RlUT4rmYuiOIubH67jc4-ONA%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="HBCニュース 北海道新闻" group-title="As-日本" tvg-logo="", HBCニュース 北海道新闻
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628086/ei/FjuaZf7dNY6O_9EPp-umuA0/ip/74.249.5.228/id/Jc_MexRxmDM.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9fwBpCsH78Dv90-Qgvh06vpQl3n3vBhx10sLHAA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeM4K7Tl-xola_kaB2y4PVXqKEy3Sp7reN0WHiLb2ljECIAkQzTongEO1J93ANxJeRozN-MHRWbTlMLnoUR53-u00/file/index.m3u8
+
+#EXTINF:-1 tvg-name="STVニュース 北海道新闻" group-title="As-日本" tvg-logo="", STVニュース 北海道新闻
+
+#EXTINF:-1 tvg-name="RKB NEWS 福岡佐賀新闻" group-title="As-日本" tvg-logo="", RKB NEWS 福岡佐賀新闻
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628087/ei/FzuaZbTvE9K7_9EPtpm1uAw/ip/74.249.5.228/id/wla87f41wj4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5lRv-ipSaJBhUqrbqAk7RC4sZyzoEC2Eh_VDw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIvhYJr5RKAIjJyGLdLBUsRpfEgwd3IJQnXfh_U-vHLdAiAn2aM9Ug5fcJpJH2lOAV6drK4XB_tejRXJKbYiBDe0hw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="サンテレビニュース Suntv 兵库新闻" group-title="As-日本" tvg-logo="", サンテレビニュース Suntv 兵库新闻
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-name="Euro News (FR)" group-title="France 法国" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png", Euro News (FR)
+#EXTINF:-1 tvg-name="日テレ NEWS" group-title="As-日本" tvg-logo="", 日テレ NEWS
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-name="French 24 (EN)" group-title="France 法国" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png", French 24 (EN)
+#EXTINF:-1 tvg-name="KBS World (K-Pop)" group-title="As-韩国" tvg-logo="", KBS World (K-Pop)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628088/ei/GDuaZemCLOaI_9EPuZWikA0/ip/74.249.5.228/id/FrWldCxToAQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8u3s3NpSCNaRx9Cvoytid5yHHh7mzcU4Sox9Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALgze32BFDcXeBAbe-XNfBzpzmixqVxOwtX4WZjD0TQnAiEAmUwZnsnPJJc-zziEUPfx875mPFf3sjtipI8mLOytWtA%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="KBS Korea (Kr)" group-title="As-韩国" tvg-logo="", KBS Korea (Kr)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628089/ei/GTuaZeDoC8yO_9EP55iJqAg/ip/74.249.5.228/id/OxQQsIvJTTU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fwcVhkk6-DP7XaAYM6OMlSo1apGbvjL7hhcyvg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgSuC131od5-MMBtgjDBeyqwBeVh8Tx0jmYxGkLd9qltcCIQCe6b65zdssBtheNOistZ0FC0Dq441GPAeFOjlfser7VQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="Arilang 阿里郎" group-title="As-韩国" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png", Arilang 阿里郎
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628089/ei/GTuaZbzAJpqG_9EP1NmKmA0/ip/74.249.5.228/id/CJVBX7KI5nU.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxqWG-77FqP1zqGQ9xPk5bxEPdVRmzOx_8VDQQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZ9_CTHafNlrq004oJljZ3QWnM6djdFF8InV1gcar9OoCIQCK5xq2NeZRPaV7b5BlvZIcH2I46b0XSemm3KDiCmqPPQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="YTN 2" group-title="As-韩国" tvg-logo="", YTN 2
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628090/ei/GjuaZceDBeqX_9EP5rmZyAI/ip/74.249.5.228/id/hxBTqmTT5gE.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2Iv31SsSBcSWnMxsBV_B9bCBB6RfrbP8GJdsQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMHu578RdrYyEVZZceqQ1_RF_KPztFljr7d2SLUhaAxrAiEArQs6VW9mE1InYmA-I8nnLlQG_vswMf_ibUnmkKk-FNA%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="YTN dmb 直播新闻台" group-title="As-韩国" tvg-logo="", YTN dmb 直播新闻台
+
+#EXTINF:-1 tvg-name="연합뉴스TV Yonhapnews" group-title="As-韩国" tvg-logo="", 연합뉴스TV Yonhapnews
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628090/ei/GjuaZaS_H8e2_9EP9cq7qA0/ip/74.249.5.228/id/6QZ_qc75ihU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/spc/UWF9fz3P-h6Ks2SrzYy4EGcNyVRTsvlKY6cmsgE8aw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ7r7j_7QdrIrO8nXCOxXlnE612kgUhIT0lNQz3-GlRuAiEAr_RU45mVFbwQ9vrPS2j1TZgzwxmLvhJ8nayPObRHH7Y%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="연합뉴스TV Yonhapnews2" group-title="As-韩国" tvg-logo="", 연합뉴스TV Yonhapnews2
+
+#EXTINF:-1 tvg-name="TBS FM 95.1MHz 실시간 LIVE 音乐广播" group-title="As-韩国" tvg-logo="", TBS FM 95.1MHz 실시간 LIVE 音乐广播
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628091/ei/GjuaZeXBPMuS_9EPjOS9qAg/ip/74.249.5.228/id/sGXgzYmwMHA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1FGfelYuYz8UX5i57rIWm4mLf6FJPWKganR9Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJI1lQZu4eDaPfgnC9yl_lmLEZQXjS1x2e6y5vcj9MilAiEAz7u1zuIaPSC1UjnE9KKbZNXE9NL7p6SEapH2VOyRtKE%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="MBC 뉴스 모바일 24시 라이브" group-title="As-韩国" tvg-logo="", MBC 뉴스 모바일 24시 라이브
+
+#EXTINF:-1 tvg-name="레전드 회차＜벌거벗은 세계사＞ 历史" group-title="As-韩国" tvg-logo="", 레전드 회차＜벌거벗은 세계사＞ 历史
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628091/ei/GzuaZdCSG6is_9EPge60iAg/ip/74.249.5.228/id/b5UeAVqz4cI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_W8K3TvHyaSpw2X2yvcbIxK8B30-hTUaIE2qw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPT75BKdahuztwLMwCptTM6hhwf3dkIhlkk7gH1QSQCAAiEA7C2kXXYc2zvlNMtGXmZQcsGbKRZ45z7AB_9JaqOGtS8%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="한국경제TV 韩国经济电视台" group-title="As-韩国" tvg-logo="", 한국경제TV 韩国经济电视台
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628091/ei/GzuaZdeiNryG_9EP676GeA/ip/74.249.5.228/id/NJUjU9ALj4A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f2x3_ti9W-NTKT3Q9noIveBzoCcunucL5wkfgg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOY94pn8MettVu26a-21FJlEKxRSXmnOwc60bkQr5icNAiEA6M49Z7lDKUQ3gRGqhtew92IvROXBnJuHqgcdwew-G9c%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="매일경제TV 每日经济新闻" group-title="As-韩国" tvg-logo="", 매일경제TV 每日经济新闻
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628092/ei/HDuaZdOtFca8_9EPzo-8sAU/ip/74.249.5.228/id/s9xL1DpBsfQ.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f_Ls5KoO_6HspvbDULf6Ra1Yr3-GaZssl8P_DQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI9sTUl7qpk38-HVMGAxfaCbMq4j_T6VswZouoU6pJ2tAiEAj-KNpIdpNHcML6LamBIMhYzHCaKA7ihHBK-rdeMYG_o%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="Arirang Radio (아리랑 라디오)" group-title="As-韩国" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png", Arirang Radio (아리랑 라디오)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628092/ei/HDuaZaWNM9iO_9EPk-uOqAY/ip/74.249.5.228/id/P1fX2GGdVS0.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9ewTuV_sJiw4nf4tqEw2sYVoMPZQDHmzcBFFg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGKO2b93jbE7QHDAMkuzTqWToTsxUDdL7Cpvw8h3BOrgCIHynod48Re1YwQ2wiMIa5MMWHHm5HKmCI9mZ60ZUvzBs/file/index.m3u8
+
+#EXTINF:-1 tvg-name="CNA" group-title="As-亚洲" tvg-logo="", CNA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628093/ei/HTuaZby5EvW6_9EPxp2MqAI/ip/74.249.5.228/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1BtcdkpcrA1sAtVlfxonQJxleeoOlGa8mw_mA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWjpgDjksWyHKH_PegdHfkk70HLFs6EOpxr1EPln2UE4CIQC82MtIcqbWND8ez_Op3DYYdEUihEvep5dhKFwHWRvHzQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="WION" group-title="As-亚洲" tvg-logo="", WION
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-name="French 24 (ES)" group-title="France 法国" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png", French 24 (ES)
+#EXTINF:-1 tvg-name="TRT" group-title="As-亚洲" tvg-logo="", TRT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628094/ei/HjuaZejhDcSX_9EP--y3oAM/ip/74.249.5.228/id/5VF4aor94gw.93/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyzUxPc-gGJbUgX0YvRweGoHDSyFIyM8Ab2dFw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKAzjRkZghuV1Fm6oU1H4zDpkHseq4In53MjUEVzvL4oCIQDGkFzIQO-YMyu4bHwbDmX7h7hw-AiR9qjkb-oz4sQofA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera 卡塔尔半岛" group-title="As-亚洲" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/71/Aljazeera.svg/1200px-Aljazeera.svg.png", Al Jazeera 卡塔尔半岛
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628094/ei/HjuaZbzhK-OJ_9EP78WboAc/ip/74.249.5.228/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0XLJPGS0KL3cEqlt1Nbl993YEKENGSJGdkehA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIeu1vR55wPr6gbtNCkxfnCpIF9-z4WdCB7Lp6nOWsDXAiAtqcDDyENjVMLppZULXjKpXmaTDfIudqIq-GH0zLNFbQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="Taiwan Plus" group-title="As-台湾" tvg-logo="http://64.225.52.167:37524/down/QnML3zoZNMmc.png", Taiwan Plus
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628095/ei/HzuaZd-TC4Ww_9EPie60oAw/ip/74.249.5.228/id/dZp87qnWelE.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8rCp9PHyvBVxpa8gsnMJ-sSZnC_4KqAN_EI4w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIL3r_zzFVbJFKMyzaqUJYfF0tOQdvK3ridrc8bgJlEtAiEAhK9Z86o3q09hfinqnJJzYZfDOMvnT9GLbHHsfLwObIQ%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="新唐人亚太台" group-title="As-台湾" tvg-logo="http://64.225.52.167:37524/down/bN1a9w2WBDHA.png?fname", 新唐人亚太台
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628095/ei/HzuaZeOiJJaO_9EP4Paj2Aw/ip/74.249.5.228/id/WIhgU_mc05A.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwkp59ktGMGld72R956QPkSQzcylx9jU_mjpzg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALOuVB6wDu9B7u3caoWKVrG6sjPRDTJusVoxeHYGoEzSAiEAwXbJHayj2tI4V8M-qyI5p_d6OP8DIpqYRC_sqy_nZYk%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="东森新闻" group-title="As-台湾" tvg-logo="", 东森新闻
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628096/ei/IDuaZbjvBuKI_9EP-peSkA4/ip/74.249.5.228/id/E0zhe2gkXBs.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f11PB2B5BwBaA2JnZpF9DQmM2P9UVfRU72hd4w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMKFsRn3QLjnIBDmISFsKGMvtPwDwo7L921LJQLz-tX1AiB2xQZ05tX1v7UTmUW23f8rYnZS6HX9aij_4IbkrskGXQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-name="东森新闻 iNews" group-title="As-台湾" tvg-logo="", 东森新闻 iNews
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-name="French 24 (FR)" group-title="France 法国" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png", French 24 (FR)
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-name="三立新闻 News+" group-title="As-台湾" tvg-logo="", 三立新闻 News+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628096/ei/IDuaZdWXMaO7_9EPsK2Q8AY/ip/74.249.5.228/id/oZdzzvxTfUY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_DHfyzEOZq_iJ0iDMVqwC4z38ywaoxI1DDG5g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgK0fnOlE_XZfo1U3pYtQjWev-wVLcPd-uNyop0bAs6sQCICaqRNzi6XnQGo40RV0oPvzHvpareyHasbGsCg-7tcry/file/index.m3u8
 
-#EXTINF:-1 tvg-name="DW (DE)" group-title="Germany 德国" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png", DW (DE)
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-name="三立新闻 iNews" group-title="As-台湾" tvg-logo="", 三立新闻 iNews
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628097/ei/ITuaZeKpFc23_9EPnYmkqAk/ip/74.249.5.228/id/CKjSm5ZeehE.85/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2DCtcrF_dx-q3lzqwyYOrQqSa_ouOkXrAs07A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgRQfZukOsVM5p_RlsG4XymeTnwu_CQIge7XUT3qDmv3ICIQCV3uqN9hmOg9UwEXGjtKX3glqbYygEwZE8tDioOaRjZw%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-name="DW (EN)" group-title="Germany 德国" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png", DW (EN)
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-name="民视新闻" group-title="As-台湾" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png", 民视新闻
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628097/ei/ITuaZdvJNPmR_9EPmeiGoAc/ip/74.249.5.228/id/ylYJSBUgaMA.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7CX3MoFs0ZIX1Yg-6h4qF52i5LxDGQdjau4Bg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJUpsmEuOZ7sxssR5w1Msxilihf3Cqq8Zixkj6vwOMAkCIQDTJBKAWenuaRnyoAK6vYWBeHogVQzBF4ons-ZWjT_x_Q%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-name="DW (ES)" group-title="Germany 德国" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png", DW (ES)
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-name="TVBS" group-title="As-台湾" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png", TVBS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628098/ei/IjuaZZ_gGam__9EPksWLOA/ip/74.249.5.228/id/YvdcZ_jpLXE.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f_gd_inG33FtHNv9_meeKfCpjUeTLoIpfgL09A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLvWmGQhp0jGA323barvfwJ7rSM7TErcj49r2-P0SkqsCIDrDsYULurKtBiNcNGJXl0tbcxATaemIjRFGLfDuDYvL/file/index.m3u8
 
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" group-title="Cn - 港澳" tvg-logo="", 凤凰卫视资讯台
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-name="TVBS 新闻台" group-title="As-台湾" tvg-logo="", TVBS 新闻台
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628098/ei/IjuaZdWVNvyS_9EPwaerwAI/ip/74.249.5.228/id/m_dhMSvUCIc.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0-Ykcyr61dRwDHXeLn3I9mKEt7I1I_dwjhcJQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgP1FYrZlK7lsjzPWcg3UhgGS21t8zvl1WjuOS2TLfsgYCIDNYr6O2QvR2P_bTNHWMrHUJ9Y-5x6LVlpkAl8fHnObr/file/index.m3u8
 
-#EXTINF:-1 tvg-name="ANN News" group-title="Japan 日本" tvg-logo="", ANN News
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-name="台视新闻" group-title="As-台湾" tvg-logo="", 台视新闻
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628099/ei/IzuaZfPJFYKp_9EPp5u9gAc/ip/74.249.5.228/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6HMIUycN_0tGyo3lQCV8qrgxETb4etj-YkrnA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ_n9uvT5rjMTkzsUkpZ-_Ormv2R_yx7BbTOFlVSiPB1AiBZZSuLm2kJYnTLJNk7VJE49R2eHkzV4r-oMoWwABhOYQ%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-name="NHK World" group-title="Japan 日本" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png", NHK World
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-name="镜电视新闻台" group-title="As-台湾" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId", 镜电视新闻台
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628099/ei/IzuaZYSNMK-3_9EPjde6uAY/ip/74.249.5.228/id/5n0y6b0Q25o.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1jMWYV4qP9Jb7uKGPBxhNPQmiuTuBkdhR6nGw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKejnPojQIIMaZFDj1z-fZrlQwGCnUOrbu3eraaCsIDCAiEAzrfRdc_-BStGHsfu7agXcnBDMwKnfeMNzPWEiQZt_S4%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-name="広島ニュース24 广岛新闻" group-title="Japan 日本" tvg-logo="", 広島ニュース24 广岛新闻
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-name="中视新闻台" group-title="As-台湾" tvg-logo="", 中视新闻台
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704628100/ei/JDuaZb3YDoKp_9EPp5u9gAc/ip/74.249.5.228/id/TCnaIE_SAtM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzBZsLg-IK1yWCN368kwpW5ETPbP3VVE94ETkw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgW2Adjj9Dt686TD2F6JL6AWT-HylDEks41XbfEEMRHzYCIEL1tHyNMkNyIlY0fmItVU7HsS2NzNgp38Ofox8MBWEh/file/index.m3u8
 
-#EXTINF:-1 tvg-name="HBCニュース 北海道新闻" group-title="Japan 日本" tvg-logo="", HBCニュース 北海道新闻
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="STVニュース 北海道新闻" group-title="Japan 日本" tvg-logo="", STVニュース 北海道新闻
-
-#EXTINF:-1 tvg-name="RKB NEWS 福岡佐賀新闻" group-title="Japan 日本" tvg-logo="", RKB NEWS 福岡佐賀新闻
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="サンテレビニュース Suntv 兵库新闻" group-title="Japan 日本" tvg-logo="", サンテレビニュース Suntv 兵库新闻
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="日テレ NEWS" group-title="Japan 日本" tvg-logo="", 日テレ NEWS
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="KBS World (K-Pop)" group-title="Korea 韩国" tvg-logo="", KBS World (K-Pop)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704623982/ei/DiuaZcfEB_aZsfIPqaWqmA8/ip/20.172.44.132/id/FrWldCxToAQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9i-R69L3KCOIQw9ZZk8Uv3FV3fRqlsT5y6Dcw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMHDkIYUJ0dfSbPlxXWpJz999Fwx27enmD0NpfKW2V2CAiEAtgI5M8suzs4jw1Q1FlRr7vwz7QQRLRkoqOXtICFk0Zk%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-name="KBS Korea (Kr)" group-title="Korea 韩国" tvg-logo="", KBS Korea (Kr)
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="Arilang 阿里郎" group-title="Korea 韩国" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png", Arilang 阿里郎
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="YTN 2" group-title="Korea 韩国" tvg-logo="", YTN 2
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="YTN dmb 直播新闻台" group-title="Korea 韩国" tvg-logo="", YTN dmb 直播新闻台
-
-#EXTINF:-1 tvg-name="연합뉴스TV Yonhapnews" group-title="Korea 韩国" tvg-logo="", 연합뉴스TV Yonhapnews
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="연합뉴스TV Yonhapnews2" group-title="Korea 韩国" tvg-logo="", 연합뉴스TV Yonhapnews2
-
-#EXTINF:-1 tvg-name="TBS FM 95.1MHz 실시간 LIVE 音乐广播" group-title="Korea 韩国" tvg-logo="", TBS FM 95.1MHz 실시간 LIVE 音乐广播
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="MBC 뉴스 모바일 24시 라이브" group-title="Korea 韩国" tvg-logo="", MBC 뉴스 모바일 24시 라이브
-
-#EXTINF:-1 tvg-name="레전드 회차＜벌거벗은 세계사＞ 历史" group-title="Korea 韩国" tvg-logo="", 레전드 회차＜벌거벗은 세계사＞ 历史
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="한국경제TV 韩国经济电视台" group-title="Korea 韩国" tvg-logo="", 한국경제TV 韩国经济电视台
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="매일경제TV 每日经济新闻" group-title="Korea 韩国" tvg-logo="", 매일경제TV 每日经济新闻
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="Arirang Radio (아리랑 라디오)" group-title="Korea 韩国" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png", Arirang Radio (아리랑 라디오)
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="CNA" group-title="Swa 东南亚西亚" tvg-logo="", CNA
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="WION" group-title="Swa 东南亚西亚" tvg-logo="", WION
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="TRT" group-title="Swa 东南亚西亚" tvg-logo="", TRT
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="Al Jazeera 卡塔尔半岛" group-title="Swa 东南亚西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/71/Aljazeera.svg/1200px-Aljazeera.svg.png", Al Jazeera 卡塔尔半岛
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="Taiwan Plus" group-title="Taiwan 台湾" tvg-logo="http://64.225.52.167:37524/down/QnML3zoZNMmc.png", Taiwan Plus
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="新唐人亚太台" group-title="Taiwan 台湾" tvg-logo="http://64.225.52.167:37524/down/bN1a9w2WBDHA.png?fname", 新唐人亚太台
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="东森新闻" group-title="Taiwan 台湾" tvg-logo="", 东森新闻
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="东森新闻 iNews" group-title="Taiwan 台湾" tvg-logo="", 东森新闻 iNews
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="三立新闻 News+" group-title="Taiwan 台湾" tvg-logo="", 三立新闻 News+
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="三立新闻 iNews" group-title="Taiwan 台湾" tvg-logo="", 三立新闻 iNews
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="民视新闻" group-title="Taiwan 台湾" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png", 民视新闻
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="TVBS" group-title="Taiwan 台湾" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png", TVBS
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="TVBS 新闻台" group-title="Taiwan 台湾" tvg-logo="", TVBS 新闻台
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="台视新闻" group-title="Taiwan 台湾" tvg-logo="", 台视新闻
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="镜电视新闻台" group-title="Taiwan 台湾" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId", 镜电视新闻台
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="中视新闻台" group-title="Taiwan 台湾" tvg-logo="", 中视新闻台
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 tvg-name="#CNBC" group-title="Us 美国" tvg-logo="", #CNBC
+#EXTINF:-1 tvg-name="#CNBC" group-title="Am-美国" tvg-logo="", #CNBC
