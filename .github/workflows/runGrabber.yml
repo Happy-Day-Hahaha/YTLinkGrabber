@@ -25,7 +25,7 @@ jobs:
       - name: Count YouTube link occurrences
         id: count_links
         run: |
-          count=$(grep -c 'https://www.youtube.com/watch?v=1oh9IEwBbFY' youtubeLink.m3u)
+          count=$(grep -c 'https://www.youtube.com/watch?v=1oh9IEwBbFY' ./youtube.m3u)
           echo "LINK_COUNT=$count" >> $GITHUB_ENV
 
       - name: Send email if count exceeds threshold
