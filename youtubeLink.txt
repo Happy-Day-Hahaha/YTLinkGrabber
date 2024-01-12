@@ -187,7 +187,7 @@ https://www.youtube.com/watch?v=m_dhMSvUCIc
 台视新闻 = As-台湾 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
-镜电视新闻台 = As-台湾 = https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@239@2006_20230119100452.png
+镜电视新闻台 = As-台湾 = http://64.225.52.167:37524/down/hwmz4Pn8knSS.png
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 中视新闻台 = As-台湾 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV1.png
