@@ -151,16 +151,16 @@ https://www.youtube.com/watch?v=dZp87qnWelE
 新唐人亚太台 = As-台湾 = http://64.225.52.167:37524/down/bN1a9w2WBDHA.png?fname=/ntd_logo.png&down=true
 https://www.youtube.com/watch?v=WIhgU_mc05A
 
-东森新闻 = As-台湾 =
+东森新闻 = As-台湾 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png
 https://www.youtube.com/watch?v=E0zhe2gkXBs
 
-东森新闻 iNews = As-台湾 =
-https://www.youtube.com/watch?v=S5WOGu2HSes
+东森财经新闻 = As-台湾 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC7.png
+https://www.youtube.com/watch?v=WHEPzbFA3hw
 
-三立新闻 News+ = As-台湾 = 
+三立新闻 News+ = As-台湾 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png
 https://www.youtube.com/watch?v=oZdzzvxTfUY
 
-三立新闻 iNews = As-台湾 = 
+三立新闻 iNews = As-台湾 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET3.png
 https://www.youtube.com/watch?v=CKjSm5ZeehE
 
 民视新闻 = As-台湾 = https://www.ftv.com.tw/images/Ch_04.png
@@ -178,16 +178,16 @@ https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS 新闻台 = As-台湾 = http://64.225.52.167:37524/down/UWoQenAcIjNC.jpg
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 
-### 华视新闻 = As-台湾 =
-### https://www.youtube.com/watch?v=wM0g8EoUZ_E
+华视新闻 = As-台湾 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS1.png
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
-台视新闻 = As-台湾 =
+台视新闻 = As-台湾 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
 镜电视新闻台 = As-台湾 = https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@239@2006_20230119100452.png
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-中视新闻台 = As-台湾 =
+中视新闻台 = As-台湾 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV1.png
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 
 
