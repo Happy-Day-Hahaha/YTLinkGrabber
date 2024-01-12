@@ -3,22 +3,17 @@ name: LinkGrabber
 on:
   schedule:
     - cron: '58 4,8,12,16,20,23 * * *'
-
   pull_request:
-    branches: [ main ]
-
+    branches: [main]
   workflow_dispatch:
+
 jobs:
-
   runCode:
-
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
 
       - name: Grab Link
-
         run: |
           git config --global user.email "fbk@hll.localhost"
           git config --global user.name "fbk"
@@ -26,3 +21,14 @@ jobs:
           git add -A
           git commit -m "./youtubeLink.txt is updated."
           git push
+
+      - name: Count YouTube link occurrences
+        id: count_links
+        run: |
+          count=$(grep -c 'https://www.youtube.com/watch?v=1oh9IEwBbFY' youtubeLink.m3u)
+          echo "::set-output name=count::$count"
+
+      - name: Send email if count exceeds threshold
+        if: steps.count_links.outputs.count > 1
+        run: |
+          echo "github YT链接需要更新" | mail -s "GitHub YT Link Update" xnhyzhyh@gmail.com
