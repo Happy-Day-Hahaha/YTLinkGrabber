@@ -157,6 +157,9 @@ https://www.youtube.com/watch?v=E0zhe2gkXBs
 东森财经新闻 = As-台湾 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC7.png
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 
+三立新闻 = As-台湾 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png
+https://www.youtube.com/watch?v=FoBfXvlOR6I
+
 三立新闻 News+ = As-台湾 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png
 https://www.youtube.com/watch?v=oZdzzvxTfUY
 
@@ -201,22 +204,22 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 
 ######################################### US
 
-#CNBC = Am-美国 =
-#https://www.youtube.com/watch?v=9NyxcX3rhQs
+###CNBC = Am-美国 =
+###https://www.youtube.com/watch?v=9NyxcX3rhQs
 
-#Bloomberg = Am-美国 = 
-#https://www.youtube.com/watch?v=dp8PhLsUcFE
+###Bloomberg = Am-美国 = 
+###https://www.youtube.com/watch?v=dp8PhLsUcFE
 
-#Fox 4 News  = Am-美国 = 
-#https://www.youtube.com/watch?v=OYYl221muXw
+###Fox 4 News  = Am-美国 = 
+###https://www.youtube.com/watch?v=OYYl221muXw
 
 ######################################### 轻音乐
 
-Calm and peaceful cafe piano music l GRASS COTTON = 音乐 Music =
-https://www.youtube.com/watch?v=cK4LemjoFd0
+###Calm and peaceful cafe piano music l GRASS COTTON = 音乐 Music =
+###https://www.youtube.com/watch?v=cK4LemjoFd0
 
-Relaxing Jazz Piano Radio = 音乐 Music =
-https://www.youtube.com/watch?v=Dx5qFachd3A
+###Relaxing Jazz Piano Radio = 音乐 Music =
+###https://www.youtube.com/watch?v=Dx5qFachd3A
 
 Test Fail Link = FBK = 
 https://www.youtube.com/watch?v=aaa
