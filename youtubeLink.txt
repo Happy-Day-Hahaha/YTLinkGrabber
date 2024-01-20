@@ -13,23 +13,23 @@
 ######################################### France
 
 
-Euro News (EN) = Eu-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
+EuroNewsEN = Eu-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
 https://www.youtube.com/watch?v=pykpO5kQJ98
 
-Euro News (ES) = Eu-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
+EuroNewsES = Eu-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
 https://www.youtube.com/watch?v=O9mOtdZ-nSk
 
-Euro News (FR) = Eu-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
+EuroNewsFR = Eu-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
 https://www.youtube.com/watch?v=NiRIbKwAejk
 
 
-French 24 (EN) = Eu-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
+French24EN = Eu-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
 https://www.youtube.com/watch?v=tkDUSYHoKxE
 
-French 24 (ES) = Eu-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
+French24ES = Eu-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
 https://www.youtube.com/watch?v=Y-IlMeCCtIg
 
-French 24 (FR) = Eu-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
+French24FR = Eu-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
 https://www.youtube.com/watch?v=l8PMl7tUDIE
 
 ###法语学习24小时直播 = Eu-法国 = 
@@ -38,13 +38,13 @@ https://www.youtube.com/watch?v=l8PMl7tUDIE
 
 ######################################### Germany
 
-DW (DE) = Eu-德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+DWDE = Eu-德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
 https://www.youtube.com/watch?v=vuI3YM1xh0g
 
-DW (EN) = Eu-德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+DWEN = Eu-德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
 https://www.youtube.com/watch?v=pqabxBKzZ6M
 
-DW (ES) = Eu-德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+DWES = Eu-德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
 https://www.youtube.com/watch?v=tsStUN73_6I
 
 
@@ -60,71 +60,71 @@ https://www.youtube.com/watch?v=Zm4i_rvAcxc
 ######################################### JAPAN
 
 
-ANN News = As-日本 = 
+ANNNews = As-日本 = 
 https://www.youtube.com/watch?v=coYw-eVU0Ks
 
-NHK World = As-日本 = https://live.fanmingming.com/tv/NHKWorld.png
+NHKWorld = As-日本 = https://live.fanmingming.com/tv/NHKWorld.png
 https://www.youtube.com/watch?v=f0lYkdA-Gtw
 
-広島ニュース24 广岛新闻 = As-日本 = 
+广岛新闻 = As-日本 = 
 https://www.youtube.com/watch?v=e2pgLUmaxGs
 
-HBCニュース 北海道新闻 = As-日本 =
+北海道新闻 = As-日本 =
 https://www.youtube.com/watch?v=Jc_MexRxmDM
 
-STVニュース 北海道新闻 = As-日本 =
+北海道新闻 = As-日本 =
 ###https://www.youtube.com/watch?v=JmBZ9CerNFM
 
-RKB NEWS 福岡佐賀新闻 = As-日本 =
+福岡佐賀新闻 = As-日本 =
 https://www.youtube.com/watch?v=wla87f41wj4
 
-サンテレビニュース Suntv 兵库新闻 = As-日本 = 
+兵库新闻 = As-日本 = 
 https://www.youtube.com/watch?v=XuniywQ4nGg
 
-日テレ NEWS = As-日本 = 
+日テレNEWS = As-日本 = 
 https://www.youtube.com/watch?v=db5fxSk4WDA
 
 
 ######################################### Korea
 
 
-KBS World (K-Pop) = As-韩国 = 
+K-Pop = As-韩国 = 
 https://www.youtube.com/c/kbsworldtv/live
 
-KBS Korea (Kr) = As-韩国 = 
+KBSKorea = As-韩国 = 
 https://www.youtube.com/watch?v=OxQQsIvJTTU
 
-Arilang 阿里郎 = As-韩国 = https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png
+Arilang = As-韩国 = https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png
 https://www.youtube.com/watch?v=CJVBX7KI5nU
 
-YTN 2 = As-韩国 =
+YTN2 = As-韩国 =
 https://www.youtube.com/watch?v=hxBTqmTT5gE
 
-YTN dmb 直播新闻台 = As-韩国 =
+YTNdmb = As-韩国 =
 ###https://www.youtube.com/watch?v=2C2WCLhDsR4
 
-연합뉴스TV Yonhapnews  = As-韩国 =
+Yonhapnews  = As-韩国 =
 https://www.youtube.com/watch?v=6QZ_qc75ihU
 
-연합뉴스TV Yonhapnews2  = As-韩国 =
+Yonhapnews2  = As-韩国 =
 ###https://www.youtube.com/watch?v=OymfxJq1TTM
 
-TBS FM 95.1MHz 실시간 LIVE 音乐广播 = As-韩国 =
+TBS音乐广播 = As-韩国 =
 https://www.youtube.com/watch?v=sGXgzYmwMHA
 
-MBC 뉴스 모바일 24시 라이브 = As-韩国 = 
+MBC24 = As-韩国 = 
 ###https://www.youtube.com/watch?v=q-Wv4Pvt-5A
 
-레전드 회차＜벌거벗은 세계사＞ 历史 = As-韩国 = 
+韩国历史 = As-韩国 = 
 https://www.youtube.com/watch?v=b5UeAVqz4cI
 
-한국경제TV 韩国经济电视台 = As-韩国 = 
+韩国经济电视台 = As-韩国 = 
 https://www.youtube.com/watch?v=NJUjU9ALj4A
 
-매일경제TV 每日经济新闻 = As-韩国 =  
+每日经济新闻 = As-韩国 =  
 https://www.youtube.com/watch?v=s9xL1DpBsfQ
 
-Arirang Radio (아리랑 라디오) = As-韩国 = https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png
+ArirangRadio = As-韩国 = https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png
 https://www.youtube.com/watch?v=P1fX2GGdVS0
 
 
@@ -139,13 +139,13 @@ https://www.youtube.com/watch?app=desktop&v=lmZRiDMK3OU
 TRT = As-亚洲 = 
 https://www.youtube.com/watch?app=desktop&v=5VF4aor94gw
 
-Al Jazeera 卡塔尔半岛 = As-亚洲 = https://upload.wikimedia.org/wikipedia/zh/thumb/7/71/Aljazeera.svg/1200px-Aljazeera.svg.png
+AlJazeera = As-亚洲 = https://upload.wikimedia.org/wikipedia/zh/thumb/7/71/Aljazeera.svg/1200px-Aljazeera.svg.png
 https://www.youtube.com/watch?v=gCNeDWCI0vo
 
 
 ######################################### Taiwan
 
-Taiwan Plus = As-台湾 = http://64.225.52.167:37524/down/QnML3zoZNMmc.png
+TaiwanPlus = As-台湾 = http://64.225.52.167:37524/down/QnML3zoZNMmc.png
 https://www.youtube.com/watch?v=dZp87qnWelE
 
 新唐人亚太台 = As-台湾 = http://64.225.52.167:37524/down/bN1a9w2WBDHA.png?fname=/ntd_logo.png&down=true
@@ -178,7 +178,7 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 TVBS = As-台湾 = http://64.225.52.167:37524/down/UWoQenAcIjNC.jpg
 https://www.youtube.com/watch?v=YvdcZ_jpLXE
 
-TVBS 新闻台 = As-台湾 = http://64.225.52.167:37524/down/UWoQenAcIjNC.jpg
+TVBS新闻台 = As-台湾 = http://64.225.52.167:37524/down/UWoQenAcIjNC.jpg
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 ###华视新闻 = As-台湾 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS1.png
