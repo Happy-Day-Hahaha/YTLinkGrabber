@@ -2,8 +2,8 @@
 
 ######################################### AUSTRALIA
 
-##ABC News = Au-澳洲 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ABCAustralia.png
-##https://www.youtube.com/watch?v=vOTiJkg1voo
+##ABC News = AU-澳洲 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ABCAustralia.png
+https://www.youtube.com/watch?v=vOTiJkg1voo
 
 
 ######################################### CANADA
@@ -13,49 +13,39 @@
 ######################################### France
 
 
-EuroNewsEN = EU-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
+EuroNewsEN = FR-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
 https://www.youtube.com/watch?v=pykpO5kQJ98
 
-EuroNewsES = EU-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
+EuroNewsES = FR-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
 https://www.youtube.com/watch?v=O9mOtdZ-nSk
 
-EuroNewsFR = EU-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
+EuroNewsFR = FR-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png
 https://www.youtube.com/watch?v=NiRIbKwAejk
 
 
-French24EN = EU-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
+French24EN = FR-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
 https://www.youtube.com/watch?v=tkDUSYHoKxE
 
-French24ES = EU-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
+French24ES = FR-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
 https://www.youtube.com/watch?v=Y-IlMeCCtIg
 
-French24FR = EU-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
+French24FR = FR-法国 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png
 https://www.youtube.com/watch?v=l8PMl7tUDIE
 
-###法语学习24小时直播 = EU-法国 = 
+###法语学习24小时直播 = FR-法国 = 
 ###https://www.youtube.com/watch?v=6PZ43QROrVs
 
 
 ######################################### Germany
 
-DWDE = Eu-德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+DWDE = DE-德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
 https://www.youtube.com/watch?v=vuI3YM1xh0g
 
-DWEN = Eu-德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+DWEN = DE-德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
 https://www.youtube.com/watch?v=pqabxBKzZ6M
 
-DWES = Eu-德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
+DWES = DE-德国 = https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png
 https://www.youtube.com/watch?v=tsStUN73_6I
-
-
-######################################### HKMO
-
-
-###*世界漫游_香港街头漫游 = 港澳 =
-###https://www.youtube.com/watch?v=dLpimcFkUno
-
-凤凰卫视资讯台 = Cn-华南-港 = https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png
-https://www.youtube.com/watch?v=Zm4i_rvAcxc
 
 ######################################### JAPAN
 
@@ -127,20 +117,22 @@ https://www.youtube.com/watch?v=s9xL1DpBsfQ
 ArirangRadio = KR-韩国 = https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png
 https://www.youtube.com/watch?v=P1fX2GGdVS0
 
+######################################### ME
 
-######################################### SMT
-
-CNA = NEWS-国际新闻 = 
-https://www.youtube.com/watch?v=XWq5kBlakcQ
-
-WION = NEWS-国际新闻 = 
+WION = ME-中东 = 
 https://www.youtube.com/watch?app=desktop&v=lmZRiDMK3OU
 
-TRT = NEWS-国际新闻 = 
+TRT = ME-中东 = 
 https://www.youtube.com/watch?app=desktop&v=5VF4aor94gw
 
-AlJazeera = NEWS-国际新闻 = https://upload.wikimedia.org/wikipedia/zh/thumb/7/71/Aljazeera.svg/1200px-Aljazeera.svg.png
+AlJazeera = ME-中东 = https://upload.wikimedia.org/wikipedia/zh/thumb/7/71/Aljazeera.svg/1200px-Aljazeera.svg.png
 https://www.youtube.com/watch?v=gCNeDWCI0vo
+
+
+######################################### SG
+
+CNA = SG-新加坡 = 
+https://www.youtube.com/watch?v=XWq5kBlakcQ
 
 
 ######################################### Taiwan
@@ -199,7 +191,6 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 
 ### SKY News = UK-英国 = 
 ### https://www.youtube.com/watch?v=9Auq9mYxFEE
-
 
 
 ######################################### US
