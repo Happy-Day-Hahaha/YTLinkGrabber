@@ -5,7 +5,7 @@ import os
 def grab(url, ch_name):
     response = requests.get(url, timeout=15).text
     if '.m3u8' not in response:
-        with open(f'{ch_name}.m3u', 'a', encoding='utf-8') as file:
+        with open(f'{ch_name}.m3u', 'w', encoding='utf-8') as file:
             file.write(f"### {ch_name}\n")
         return
     end = response.find('.m3u8') + 5
