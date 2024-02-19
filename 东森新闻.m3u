@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="东森新闻" group-title="Tw-台湾" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png", 东森新闻
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708375086/ei/zmfTZdzbIae4_9EPlc-ZoAs/ip/40.79.247.102/id/E0zhe2gkXBs.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f0vP88JABnpJS6VtkXVffO09_iP1CWumrYytCs-mWRU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI5xZKPjQ3XpkVWo45RM48oUaqDbQGpnGMNHWy1or6n3AiEArZG5HcqM3qsBLjzFN1kaiPKFuSYM4J3OdcfwxolIjXU%3D/file/index.m3u8 东森新闻

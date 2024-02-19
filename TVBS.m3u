@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="TVBS" group-title="Tw-台湾" tvg-logo="http://64.225.52.167:37524/down/UWoQenAcIjNC.jpg", TVBS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708375089/ei/0WfTZa2tMeGAzLUPjpWkIA/ip/40.79.247.102/id/YvdcZ_jpLXE.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fwIU9s7ZByd94uQaVbT_Gj5tt0HrGTLPlobKqnhWyJo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOL7aHLanrj1J8dZj503W0dHafAjV3TgzFCblpobEIFAAiEAkvNw02nZklsmfam3dYUFDHA-49eGKUfDP6k99fabuP4%3D/file/index.m3u8 TVBS

@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="French24ES" group-title="Eu-法国" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png", French24ES
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708375072/ei/wGfTZb20A_6k0_wPvLip-A0/ip/40.79.247.102/id/Y-IlMeCCtIg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwvXe0oNiynQb4oAUbNCSUCDSMeBFzHIILojlmTdzAU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMOPVbtF2V8totGzHIowrrr4aM0ytd4t8h7Lr_xxXHdwCIQC42m71cBNl4iB5rJFsiy4riud9Yuiqgu7L3o0NKwVHrg%3D%3D/file/index.m3u8 French24ES

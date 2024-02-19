@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="CNA" group-title="News-国际新闻" tvg-logo="", CNA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708375083/ei/y2fTZej8G_q2_9EPv6iB-A8/ip/40.79.247.102/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxvWvTgnkwQftEHsheoZbMQIoTo3XLOgX7XUHgGnWD0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKupw8NQUmSg0gwRyvJpiHPieei7Q_xxEEQRkicteOp6AiEA6yyk3EFkXqFiHM9RLK9xnRb6J8XCsHLRoHS3c97E-cY%3D/file/index.m3u8 CNA
