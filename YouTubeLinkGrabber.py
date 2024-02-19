@@ -31,9 +31,9 @@ with open('./youtubeLink.txt', encoding='utf-8') as f:
             ch_name = line[0].strip()
             grp_title = line[1].strip().title()
             ch_logo = line[2].strip()
-            with open(f'{ch_name}.m3u', 'w', encoding='utf-8') as file:
-                file.write('#EXTM3U\n')
-                file.write(f'\n#EXTINF:-1 tvg-name="{ch_name}" group-title="{grp_title}" tvg-logo="{ch_logo}", {ch_name}\n')
+            #with open(f'{ch_name}.m3u', 'w', encoding='utf-8') as file:
+                #file.write('#EXTM3U\n')
+                #file.write(f'\n#EXTINF:-1 tvg-name="{ch_name}" group-title="{grp_title}" tvg-logo="{ch_logo}", {ch_name}\n')
         else:
             grab(line, ch_name)
             
