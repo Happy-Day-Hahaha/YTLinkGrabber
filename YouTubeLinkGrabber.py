@@ -18,7 +18,7 @@ def grab(url, ch_name):
             break
         else:
             tuner += 5
-    with open(f'{ch_name}.m3u', 'a', encoding='utf-8') as file:
+    with open(f'{ch_name}.m3u', 'w', encoding='utf-8') as file:
         file.write(f"{link[start: end]} {ch_name}\n")
 
 with open('./youtubeLink.txt', encoding='utf-8') as f:
